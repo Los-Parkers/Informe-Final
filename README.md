@@ -1402,6 +1402,6 @@ Reghellin Palacios, A. F. (2018). La congestión vehicular en Lima Metropolitana
 
 # Anexos
 
-- Link del video de presentación TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f140_upc_edu_pe/ETxHLBrRT6RItlp3W3Lv4QMBqgyMcA06nelUpjeyWm6EPA?e=ARiARY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Link del video de presentación TB1: [Exposición TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f140_upc_edu_pe/ETxHLBrRT6RItlp3W3Lv4QMBqgyMcA06nelUpjeyWm6EPA?e=ARiARY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 - Link del repositorio del equipo: https://github.com/orgs/Los-Parkers/repositories
