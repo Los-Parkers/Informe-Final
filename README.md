@@ -475,7 +475,75 @@ User Persona del Usuario de Anfitrión
 
 En esta sección se presenta el user task matrix, herramienta centrada en los segmentos objetivos que nos permitirá identificar las tareas y objetivos claves de los usuarios
 
-
+<table>
+  <tr>
+    <th colspan="1" rowspan="2" valign="top">User Task</th>
+    <th colspan="2" valign="top">Jose Sanchez</th>
+    <th colspan="2" valign="top">Luis Suarez</th>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">Frequency</td>
+    <td colspan="1" valign="top">Importance</td>
+    <td colspan="1" valign="top">Frequency</td>
+    <td colspan="1" valign="top">Importance</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="1" valign="top">Busca zonas seguras para estacionarse</td>
+    <td valign="top">Sometimes</td>
+    <td valign="top">High</td>
+    <td valign="top">Often</td>
+    <td valign="top">High</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="1" valign="top">Recibir guía o notificación de posibles espacios disponibles</td>
+    <td valign="top">Sometimes</td>
+    <td valign="top">High</td>
+    <td valign="top">Often</td>
+    <td valign="top">High</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="1" valign="top">Buscar las zonas más seguras de cada distrito</td>
+    <td valign="top">Sometimes</td>
+    <td valign="top">Medium</td>
+    <td valign="top">Never</td>
+    <td valign="top">Low</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="1" valign="top">Participar en ofertas proporcionadas por la app</td>
+    <td valign="top">Always</td>
+    <td valign="top">High</td>
+    <td valign="top">Often</td>
+    <td valign="top">High</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="1" valign="top">Revisar notificaciones sobre estado de disposición</td>
+    <td valign="top">Sometimes</td>
+    <td valign="top">High</td>
+    <td valign="top">Never</td>
+    <td valign="top">Low</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="1" valign="top">Recibir una respuesta inmediata sobre posibles estacionamientos</td>
+    <td valign="top">Always</td>
+    <td valign="top">High</td>
+    <td valign="top">Never</td>
+    <td valign="top">Low</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="1" valign="top">Conocer las calificaciones de los demás usuarios de parking</td>
+    <td valign="top">Always</td>
+    <td valign="top">Medium</td>
+    <td valign="top">Sometimes</td>
+    <td valign="top">Medium</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="1" valign="top">Calificar a mis posibles clientes</td>
+    <td valign="top">Never</td>
+    <td valign="top">Low</td>
+    <td valign="top">Often</td>
+    <td valign="top">Low</td>
+  </tr>
+</table>
 
 ### 2.3.3. User Journey Matrix
 
