@@ -51,21 +51,21 @@ EzPark se propone revolucionar la forma en que las personas encuentran y utiliza
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-|                                                                          | Oliveira Paucar, Mauricio                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img height="90" width="600" src="assets/mauricio.PNG" alt="Mauricio" /> | <strong>Ingeniería de Software - U201719831</strong><br />Tengo 23 años, me gusta mucho aprender cosas nuevas sobre mi carrera, trabajar en equipo de manera proactiva y lograr los objetivos junto a mis compañeros. Me considero una persona ambiciosa, ya que mi meta es llegar a obtener un alto cargo en una empresa que me agrade o formar mi propia empresa relacionada al software. Gracias a ello siempre podré trabajar en algo que me guste. |
+|                                                                                 | Oliveira Paucar, Mauricio                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img height="90" width="600" src="./assets/team/mauricio.PNG" alt="Mauricio" /> | <strong>Ingeniería de Software - U201719831</strong><br />Tengo 23 años, me gusta mucho aprender cosas nuevas sobre mi carrera, trabajar en equipo de manera proactiva y lograr los objetivos junto a mis compañeros. Me considero una persona ambiciosa, ya que mi meta es llegar a obtener un alto cargo en una empresa que me agrade o formar mi propia empresa relacionada al software. Gracias a ello siempre podré trabajar en algo que me guste. |
 
 |                                                                                | Garro Vega, Marcelo Fabian                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img height="90" width="400" src="./assets/team/marcelo.png"  alt="Marcelo" /> | <strong>Ingeniería de Software - U20201C410</strong><br />Soy un estudiante universitario de 21 años apasionado por el mundo de la tecnología y su capacidad para resolver problemas cotidianos. Me considero una persona organizada, responsable y optimista que busca la mejor manera solucionar los problemas. <br/> Me especializo en el ámbito del desarrollo frontend, priorizando siempre la experiencia del usuario. <br/>Me comprometo a ser un gran aporte al equipo, apoyando a mis compañeros y compartir mis conocimientos de desarrollo. |
 
-|                                                                            | Méndez Vargas, Sebastian Orlando                                                                                                                                                                                                                                                                                                                                                                                               |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img height="90" width="400" src="assets/sebastian.png" alt="Sebastian" /> | <strong>Ingeniería de Software - U20201F140</strong><br />Tengo 21 años y disfruto de temas relacionados a la tecnología moderna (IA, machine learning, etc).</br> Aprendo mucho al trabajar en equipos y soy creativo a la hora de proponer ideas y soluciones tecnológicas. Me considero como una persona sociable y que le gusta compartir ideas con sus compañeros, todo sea por dar lo mejor de nosotros en cada trabajo. |
+|                                                                                   | Méndez Vargas, Sebastian Orlando                                                                                                                                                                                                                                                                                                                                                                                               |
+| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img height="90" width="400" src="./assets/team/sebastian.png" alt="Sebastian" /> | <strong>Ingeniería de Software - U20201F140</strong><br />Tengo 21 años y disfruto de temas relacionados a la tecnología moderna (IA, machine learning, etc).</br> Aprendo mucho al trabajar en equipos y soy creativo a la hora de proponer ideas y soluciones tecnológicas. Me considero como una persona sociable y que le gusta compartir ideas con sus compañeros, todo sea por dar lo mejor de nosotros en cada trabajo. |
 
-|                                                                    | Gonzales Arotinco, Bruno Leonardo                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img height="90" width="600" src="assets/bruno.PNG" alt="Bruno" /> | <strong>Ingeniería de Software - U201820037</strong><br />Mi edad es 24 años y disfruto adquiriendo nuevos conocimientos sobre mi carrera. Me destaco por colaborar de forma activa en equipos y alcanzar metas junto a ellos. Soy una persona divertida, ya que intento buscarle lo divertido a la vida y a nivel profesional busco establecer mi propio negocio en el ámbito del software. Esta ambición me motiva a trabajar en un área que me apasione de manera constante. |
+|                                                                           | Gonzales Arotinco, Bruno Leonardo                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img height="90" width="600" src="./assets/team/bruno.PNG" alt="Bruno" /> | <strong>Ingeniería de Software - U201820037</strong><br />Mi edad es 24 años y disfruto adquiriendo nuevos conocimientos sobre mi carrera. Me destaco por colaborar de forma activa en equipos y alcanzar metas junto a ellos. Soy una persona divertida, ya que intento buscarle lo divertido a la vida y a nivel profesional busco establecer mi propio negocio en el ámbito del software. Esta ambición me motiva a trabajar en un área que me apasione de manera constante. |
 
 ## 1.2. Solution Profile
 
@@ -225,9 +225,144 @@ Nuestro segmento objetivo está compuesto por dos tipos de usuarios:
 
 ## 2.1. Competidores
 
+Para realizar el análisis competitivo, hemos tomado en consideración competidores directos en su mayoría como:
+
+- **SpotHero**: SpotHero es un mercado de estacionamiento digital que conecta a los conductores que buscan reservar y pagar espacios de estacionamiento con estacionamientos, garajes de estacionamiento y servicios de valet.
+
+<div align="center"><img src="./assets/competidor1.PNG" alt="competidor1"/ width=15%>
+</div>
+
+- **ParkWhiz**: ParkWhiz es un servicio de estacionamiento electrónico que permite a los usuarios reservar espacios de estacionamiento antes de llegar a sus destinos. La sede de ParkWhiz se encuentra en Chicago, Illinois.
+
+<div align="center"><img src="./assets/competidor2.PNG" alt="competidor1"/ width=15%>
+</div>
+
+- **ParkMobile**: ParkMobile es una aplicación web y móvil que ofrece pagos de estacionamiento en América del Norte. Con sede en Atlanta, Georgia, los usuarios pueden pagar el estacionamiento en la vía pública y fuera de ella mediante una aplicación en su teléfono inteligente, un navegador web o llamando a un número de teléfono.
+
+<div align="center"><img src="./assets/competidor3.PNG" alt="competidor1"/ width=15%>
+</div>
+
 ## 2.1.1. Análisis competitivo
 
-## 2.1.2. Análisis competitivo
+<table>
+  <tr>
+    <th colspan="6" valign="top">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="4" valign="top">El objetivo de este análisis es identificar las características de los competidores y encontrar maneras de diferenciarnos.</td>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2" valign="top">Startup y Competidores</td>
+    <td valign="top">EzPark</td>
+    <td valign="top">SpotHero</td>
+    <td valign="top">ParkWhiz</td>
+    <td valign="top">ParkMobile</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="./assets/ezpark.PNG" alt="EzPark" height="100px"></td>
+    <td valign="top"><img src="./assets/competidor1.PNG" alt="Competidor1" height="100px"></td>
+    <td valign="top"><img src="./assets/competidor2.PNG" alt="Competidor2" height="100px"></td>
+    <td valign="top"><img src="./assets/competidor3.PNG" alt="Competidor3" height="100px"></td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Perfil</td>
+    <td valign="top">Overview</td>
+    <td valign="top">Ofrece al usuario poder encontrar un estacionamiento seguro en Lima donde pueda guardar su vehículo de una forma que el usuario no se preocupe por problemas de robo y otros. Así como también que una persona pueda alquilar su cochera a un vehículo.</td>
+    <td valign="top">Permite a los conductores reservar estacionamientos en línea y proporciona herramientas para que los propietarios de estacionamientos gestionen sus espacios.</td>
+    <td valign="top">Ofrece reservas de estacionamiento en línea y una plataforma para propietarios de estacionamientos para comercializar y gestionar sus espacios no utilizados.</td>
+    <td valign="top">Ofrece una aplicación que permite a los conductores encontrar y pagar por estacionamiento en la calle y en garajes, así como reservar espacios en algunos lugares.
+</td>
+  </tr>
+  <tr>
+    <td valign="top">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td valign="top">Brinda promociones a los usuarios concurrentes. Además de poder generar confianza en ellos al encontrar estacionamientos en zonas concurridas y también poder hacer que el usuario alquile sus cocheras.</td>
+    <td valign="top">Encontrar estacionamientos en zonas concurridas.</td>
+    <td valign="top">Vende a sus consumidores un lugar seguro para estacionarse de una manera mas segura.</td>
+    <td valign="top">Cuando buscas un estacionamiento, hay un filtro para los rangos de precios. Además, cuentan con solo las etiquetas específicas.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Perfil de Marketing</td>
+    <td valign="top">Mercado objetivo</td>
+    <td valign="top">Personas con vehículos que transitan por lugares muy concurridos de vehículos.</td>
+    <td valign="top">Personas que buscan un lugar de parqueo.</td>
+    <td valign="top">Usuarios de vehículos que viaja mucho por otro lugars.</td>
+    <td valign="top">Personas con vehículos que transitan por lugares muy concurridos.</td>
+  </tr>
+  <tr>
+    <td valign="top">Estrategias de marketing</td>
+    <td valign="top">Anunciar por redes sociales, implementar programas de referencia.</td>
+    <td valign="top">Solo en App store y Google Play.</td>
+    <td valign="top">Facebook, Instagram y Youtube lo promocionan.</td>
+    <td valign="top">Facebook y Youtube lo promocionan.</td>
+  </tr>
+  <tr>
+    <td rowspan="3" valign="top">Perfil de Producto</td>
+    <td valign="top">Productos & Servicios</td>
+    <td valign="top">Búsqueda de parking por filtros y precios.</td>
+    <td valign="top">Reserva de parking en zonas concurridas.</td>
+    <td valign="top">Reserva de estacionamientos .</td>
+    <td valign="top">Búsqueda de parqueo con filtros.</td>
+  </tr>
+  <tr>
+    <td valign="top">Precios & Costos</td>
+    <td valign="top">Suscripción.</td>
+    <td valign="top">Suscripción premium y Pro.</td>
+    <td valign="top">Inscripción a su club ParkWhiz.</td>
+    <td valign="top">Suscripción.</td>
+  </tr>
+  <tr>
+    <td valign="top">Canales de distribución (Web y/o Móvil)</td>
+    <td valign="top">Principalmente a través de su sitio web oficial y redes sociales.
+    </td>
+    <td valign="top">Principalmente a través de su sitio web oficial y en tiendas virtuales.
+    </td>
+    <td valign="top">Principalmente a través de su sitio web oficial y redes sociales.
+    </td>
+    <td valign="top">Principalmente a través de su sitio web oficial y redes sociales.
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="4" valign="top">Análisis SWOT</td>
+    <td valign="top">Fortalezas</td>
+    <td valign="top">Generar al usuario la confianza que necesita hacia nuestra aplicación.
+    </td>
+    <td valign="top">Reserva con dias de anticipacion.</td>
+    <td valign="top">Disfruta de su viaje mientras nosotros protegemos su vehículo.</td>
+    <td valign="top">Proporcionar las ubicaciones de los estacionamientos más seguros.</td>
+  </tr>
+  <tr>
+    <td valign="top">Debilidades</td>
+    <td valign="top">Temor de los usuarios de confiar en desconocidos que encuentran en la aplicación.</td>
+    <td valign="top">Preocupación de los usuarios sobre la posibilidad de que la plataforma les cobre un pequeño cargo adicional por reservar con mucha anticipación.</td>
+    <td valign="top">Los usuarios deben pedir con anticipación reserva para que llegue a tiempo o puede generar un retraso.</td>
+    <td valign="top">El diseño del aplicativo genera desconfianza, lo que puede llevar a los usuarios a ser redirigidos a lugares no deseados, con posibles riesgos.</td>
+  </tr>
+  <tr>
+    <td valign="top">Oportunidades</td>
+    <td valign="top">El crecimiento del interés por hallar un lugar seguro donde estacionar en cualquier distrito de Lima.
+    </td>
+    <td valign="top">Probar otros métodos de pago
+    </td>
+    <td valign="top">La gente confía más en una aplicación con mucha ayuda externa
+    </td>
+    <td valign="top">La experiencia de conocer e ir a lugares nuevos y estacionar su vehículo de manera segura.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Amenazas</td>
+    <td valign="top">Dificultad de que los usuarios sean estafados en algún momento
+    </td>
+    <td valign="top">Dificultad de que los usuarios permanezcan por los altos precios que ofrecen.
+    </td>
+    <td valign="top">Los usuarios que quisieran con urgencia un estacionamiento, no podrían contar con la app.
+    </td>
+    <td valign="top">Problemas en la interfaz de la app.
+    </td>
+  </tr>
+</table>
+
+## 2.1.2. Estrategias y tácticas frente a competidores
 
 Entre las principales estrategias y tácticas que ejecutaremos como startup se encuentran:
 
@@ -264,7 +399,7 @@ Segmento objetivo: Usuario de Parking y Anfitrión
 Segmento objetivo: Usuario de Parking y Anfitrión
 Entrevista 1: Juan Carlos Bodoque Bolaños (26 años - San Miguel) - 4 de abril del 2023
 URL del video: (enlace) (Comienzo 00:00:00 - Fin 00:21:10)
-<img src="" alt="Entrevista de Juan Carlos" />
+<img width =100% src="./assets/entrevistas/entrevista1.PNG" alt="Entrevista de Juan Carlos" />
 
 Resumen:
 Después de entrevistar a Juan Carlos Bodoque Bolaños, un abogado de 26 años residente en el distrito de San Miguel, se han obtenido detalles significativos sobre sus necesidades y preferencias en relación con el estacionamiento. Juan Carlos mencionó tener dificultades para encontrar estacionamiento en su centro de labores en el distrito de San Isidro, así como en zonas turísticas como Miraflores. Destacó que los horarios laborales presentan mayores desafíos para encontrar estacionamiento. Expresó interés en utilizar una plataforma de alquiler de espacios de estacionamiento sí ofrece beneficios económicos y afirmó que la utilizaría diariamente durante los días laborales. En términos de seguridad, señaló la importancia de verificar la identidad de los ocupantes de los espacios y la presencia de agentes de seguridad.
@@ -275,7 +410,7 @@ Por otro lado, reveló que tiene dos espacios de estacionamiento disponibles en 
 Segmento objetivo: Usuario de Parking y Anfitrión
 Entrevista 2: Liliana Fu Ye (22 años - Jesús María) - 4 de abril del 2023
 URL del video: (enlace) (Comienzo 00:00:00 - Fin 00:21:10)
-<img src="" alt="Entrevista de Liliana Fu Ye" />
+<img width=100% src="./assets/entrevistas/entrevista2.PNG" alt="Entrevista de Liliana Fu Ye" />
 Resumen:
 Después de entrevistar a Liliana Fu Ye, una estudiante de 22 años de Ingeniería de Software en la UPC y practicante en el banco Interbank, se han recopilado detalles importantes sobre sus hábitos de estacionamiento y sus preferencias en cuanto a la utilización de espacios de estacionamiento. Liliana mencionó que reside en el distrito de Jesús María y utiliza un vehículo prestado por su madre para desplazarse al trabajo y hacer compras los fines de semana en el distrito del Callao. Suele visitar los distritos de San Isidro y el Callao. Identificó las horas laborales y las ocasiones en las que almuerza con amigos en Miraflores como momentos difíciles para encontrar estacionamiento. Expresó su disposición para utilizar un estacionamiento privado y consideró útil una aplicación que muestre estos lugares, ya que actualmente se apoya en GPS que no son precisos para este propósito.
 En cuanto a seguridad, sugirió que los estacionamientos deberían ubicarse en lugares privados o contar con personal vigilante en caso de ser públicos. Reveló que tiene dos espacios de estacionamiento en su hogar, pero solo utiliza uno y estaría dispuesta a alquilar el espacio no utilizado de manera indefinida, ya que su padre se ha mudado a otra ciudad con su vehículo. Propuso que la función de alquilar espacios propios esté integrada en la misma aplicación que ayuda a buscar espacios de otros usuarios para mayor comodidad. En cuanto a la tarifa de alquiler mensual, sugirió un precio aproximado de 300 soles, y consideraría cobrar por horas a partir de 5, aunque requiere una deliberación más detenida sobre esta opción.
@@ -285,7 +420,7 @@ En cuanto a seguridad, sugirió que los estacionamientos deberían ubicarse en l
 Segmento objetivo: Usuario de Parking y Anfitrión
 Entrevista 3: Leonardo Jesús Vargas Navarro (26 años - Ate) - 5 de abril del 2023
 URL del video: https://youtu.be/lYCCdxyKcik (Comienzo 00:00:00 - Fin 00:09:11)
-<img src="" alt="Entrevista de Leonardo Jesús Vargas" />
+<img width=100% src="./assets/entrevistas/entrevista3.PNG" alt="Entrevista de Leonardo Jesús Vargas" />
 Resumen:
 Después de entrevistar a Leonardo Jesús Vargas Navarro, un ingeniero civil de 26 años que trabaja actualmente en la empresa D'site Perú y que reside en el distrito de Ate Vitarte, pudimos informarnos sobre su rutina semanal que tiene para con su vehículo y algunas preferencias que tiene a la hora de usar espacios de estacionamiento. Más adelante, Leonardo nos comenta que es dueño de un Hyundai Sedán y cuenta con un garaje para el mismo en su hogar.
 En cuanto a sus destinos frecuentes, él suele ir con su vehículo hasta el distrito de San Miguel por temas de trabajo, además de pasear de vez en cuando por distritos como San Isidro o La Molina. Luego, nos comentó que es un poco más complicado conseguir espacios de estacionamiento en las mañanas y al mediodía. Por otro lado, nos expresó que le parecía buena la idea de utilizar un estacionamiento privado, especialmente para los días que va a trabajar.
@@ -295,21 +430,21 @@ Sin embargo, identificó algunos aspectos de seguridad que podrían ser útiles 
 
 Segmento objetivo: Usuario de Parking y Anfitrión
 Entrevista 4: Jesus Pedro Casana (San Miguel) - 5 de Abril, 2024
-<img src="" alt="Entrevista de Jesus Pedro Casana" />
+<img width=100% src="./assets/entrevistas/entrevista4.PNG" alt="Entrevista de Jesus Pedro Casana" />
 Terminada la entrevista a Jesus Pedro Casana, el nos comenta que es joven universitario que estudia y trabaja y cuenta con carro propio. Él es consciente que debido a su trabajo le demanda ir a varios distritos de Lima y casi la mayoría del tiempo no consigue un estacionamiento adecuado debido a la gran cantidad de vehículos estacionados que se encuentran por la zona. El también comenta que cuenta con una amplia cochera donde guarda su auto. El entrevistado manifestó su disposición a utilizar estacionamientos privados y reconoció el valor de una aplicación que facilite la visualización de estos lugares. Señaló que actualmente se apoya en sistemas de GPS que no son precisos para encontrar estacionamiento, por lo que considera útil una herramienta que le brinde información específica sobre los espacios disponibles en estacionamientos privados.
 
 ---
 
 Segmento objetivo: Usuario de Parking y Anfitrión
 Entrevista 5: Edu Arturo Antayhua Ticona (San Miguel) - 6 de Abril, 2024
-<img src="./assets/entrevistas/entrevista-edu.png" alt="Entrevista de Edu Arturo Antayhua" />
+<img width=100% src="./assets/entrevistas/entrevista-edu.png" alt="Entrevista de Edu Arturo Antayhua" />
 Se ha entrevistado a Edu Arturo Antayhua Ticona que tiene 21 años y trabaja de bartender. El menciona que usa su vehículo todos los días para ir a trabajar, estudiar y salir con su familia a pasear. Del mismo modo también dice que se le dificulta mucho salir a pasear con su vehículo ya que no encuentra un estacionamiento seguro por las zonas donde él normalmente se moviliza. También menciona que el uso de una aplicación con los servicios que mencionamos le serían de gran ayuda para su día a día..
 
 ---
 
 Segmento objetivo: Usuario de Parking y Anfitrión
 Entrevista 6. Rodrigo Tornero Loayza (Santiago de Surco) - 6 de Abril, 2024
-<img src="./assets/entrevistas/entrevista-rodrigo.png" alt="Entrevista de Rodrigo Tornero Loayza" />
+<img width=100% src="./assets/entrevistas/entrevista-rodrigo.png" alt="Entrevista de Rodrigo Tornero Loayza" />
 Se le ha realizado una entrevista a Rodrigo Tornero Loayza que cuenta con 21 años. El menciona que usó su vehículo de Lunes a Sábado para ir a la universidad y comprar algunas cosas que necesita para su universidad. El menciona también que durante la tarde cuando necesite un estacionamiento no hay debido a la alta demanda. El cree que usar la app que brinda nuestro servicio podría solucionar esos problemas y le ayudará a ahorrar un poco de tiempo. Respecto a los servicios de nuestra app, Rodrigo menciona que él considera viable la opción de alquilar una cochera a una persona si los estacionamiento se encuentran ocupados. Del mismo modo el dice que también sería capaz de alquilar su cochera si en algún momento no llegará a usarlo.
 
 ### 2.2.3. Análisis de entrevistas.
@@ -330,15 +465,85 @@ En esta sección se presentarán los artefactos resultantes del proceso de anál
 
 User Persona del Usuario de Parking
 
-<img src="" alt="Usuario de Parking" />
+<img width=100% src="./assets/userPersona1.PNG" alt="Usuario de Parking" />
 
 User Persona del Usuario de Anfitrión
 
-<img src="" alt="Usuario de Anfitrion" />
+<img width=100% src="./assets/userPersona2.PNG" alt="Usuario de Anfitrion" />
 
 ### 2.3.2. User Task Matrix
 
 En esta sección se presenta el user task matrix, herramienta centrada en los segmentos objetivos que nos permitirá identificar las tareas y objetivos claves de los usuarios
+
+<table>
+  <tr>
+    <th colspan="1" rowspan="2" valign="top">User Task</th>
+    <th colspan="2" valign="top">Jose Sanchez</th>
+    <th colspan="2" valign="top">Luis Suarez</th>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">Frequency</td>
+    <td colspan="1" valign="top">Importance</td>
+    <td colspan="1" valign="top">Frequency</td>
+    <td colspan="1" valign="top">Importance</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="1" valign="top">Busca zonas seguras para estacionarse</td>
+    <td valign="top">Sometimes</td>
+    <td valign="top">High</td>
+    <td valign="top">Often</td>
+    <td valign="top">High</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="1" valign="top">Recibir guía o notificación de posibles espacios disponibles</td>
+    <td valign="top">Sometimes</td>
+    <td valign="top">High</td>
+    <td valign="top">Often</td>
+    <td valign="top">High</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="1" valign="top">Buscar las zonas más seguras de cada distrito</td>
+    <td valign="top">Sometimes</td>
+    <td valign="top">Medium</td>
+    <td valign="top">Never</td>
+    <td valign="top">Low</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="1" valign="top">Participar en ofertas proporcionadas por la app</td>
+    <td valign="top">Always</td>
+    <td valign="top">High</td>
+    <td valign="top">Often</td>
+    <td valign="top">High</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="1" valign="top">Revisar notificaciones sobre estado de disposición</td>
+    <td valign="top">Sometimes</td>
+    <td valign="top">High</td>
+    <td valign="top">Never</td>
+    <td valign="top">Low</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="1" valign="top">Recibir una respuesta inmediata sobre posibles estacionamientos</td>
+    <td valign="top">Always</td>
+    <td valign="top">High</td>
+    <td valign="top">Never</td>
+    <td valign="top">Low</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="1" valign="top">Conocer las calificaciones de los demás usuarios de parking</td>
+    <td valign="top">Always</td>
+    <td valign="top">Medium</td>
+    <td valign="top">Sometimes</td>
+    <td valign="top">Medium</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="1" valign="top">Calificar a mis posibles clientes</td>
+    <td valign="top">Never</td>
+    <td valign="top">Low</td>
+    <td valign="top">Often</td>
+    <td valign="top">Low</td>
+  </tr>
+</table>
 
 ### 2.3.3. User Journey Matrix
 
@@ -441,8 +646,6 @@ Impact Mapping: Anfitrión
 ## 3.4. Product Backlog
 
 A continuación se muestra la elaboración del Product Backlog en la herramienta Trello:
-
-<img src="./assets/product-backlog.png" alt="Imagen de Trello con el Product Backlog" />
 
 # Capítulo IV: Product Design
 
