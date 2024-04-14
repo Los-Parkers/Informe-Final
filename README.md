@@ -53,7 +53,7 @@ EzPark se propone revolucionar la forma en que las personas encuentran y utiliza
 
 |                                                       | Oliveira Paucar, Mauricio                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img height="90" width="600" src="assets/mauricio.PNG" alt="Mauricio" /> | <strong>Ingeniería de Software - U201719831</strong><br />Tengo 23 años, me gusta mucho aprender cosas nuevas sobre mi carrera, trabajar en equipo de manera proactiva y lograr los objetivos junto a mis compañeros. Me considero una persona ambiciosa, ya que mi meta es llegar a obtener un alto cargo en una empresa que me agrade o formar mi propia empresa relacionada al software. Gracias a ello siempre podré trabajar en algo que me guste. |
+| <img height="90" width="600" src="./assets/team/mauricio.PNG" alt="Mauricio" /> | <strong>Ingeniería de Software - U201719831</strong><br />Tengo 23 años, me gusta mucho aprender cosas nuevas sobre mi carrera, trabajar en equipo de manera proactiva y lograr los objetivos junto a mis compañeros. Me considero una persona ambiciosa, ya que mi meta es llegar a obtener un alto cargo en una empresa que me agrade o formar mi propia empresa relacionada al software. Gracias a ello siempre podré trabajar en algo que me guste. |
 
 |                                                                                | Garro Vega, Marcelo Fabian                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -61,11 +61,11 @@ EzPark se propone revolucionar la forma en que las personas encuentran y utiliza
 
 |                                                        | Méndez Vargas, Sebastian Orlando                                                                                                                                                                                                                                                                                                                                                                                          |
 | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img height="90" width="400" src="assets/sebastian.png" alt="Sebastian" /> | <strong>Ingeniería de Software - U20201F140</strong><br />Tengo 21 años y disfruto de temas relacionados a la tecnología moderna (IA, machine learning, etc).</br> Aprendo mucho al trabajar en equipos y soy creativo a la hora de proponer ideas y soluciones tecnológicas. Me considero como una persona sociable y que le gusta compartir ideas con sus compañeros, todo sea por dar lo mejor de nosotros en cada trabajo. |
+| <img height="90" width="400" src="./assets/team/sebastian.png" alt="Sebastian" /> | <strong>Ingeniería de Software - U20201F140</strong><br />Tengo 21 años y disfruto de temas relacionados a la tecnología moderna (IA, machine learning, etc).</br> Aprendo mucho al trabajar en equipos y soy creativo a la hora de proponer ideas y soluciones tecnológicas. Me considero como una persona sociable y que le gusta compartir ideas con sus compañeros, todo sea por dar lo mejor de nosotros en cada trabajo. |
 
 |                                                    | Gonzales Arotinco, Bruno Leonardo                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img height="90" width="600" src="assets/bruno.PNG" alt="Bruno" /> | <strong>Ingeniería de Software - U201820037</strong><br />Mi edad es 24 años y disfruto adquiriendo nuevos conocimientos sobre mi carrera. Me destaco por colaborar de forma activa en equipos y alcanzar metas junto a ellos. Soy una persona divertida, ya que intento buscarle lo divertido a la vida y a nivel profesional busco establecer mi propio negocio en el ámbito del software. Esta ambición me motiva a trabajar en un área que me apasione de manera constante. |
+| <img height="90" width="600" src="./assets/team/bruno.PNG" alt="Bruno" /> | <strong>Ingeniería de Software - U201820037</strong><br />Mi edad es 24 años y disfruto adquiriendo nuevos conocimientos sobre mi carrera. Me destaco por colaborar de forma activa en equipos y alcanzar metas junto a ellos. Soy una persona divertida, ya que intento buscarle lo divertido a la vida y a nivel profesional busco establecer mi propio negocio en el ámbito del software. Esta ambición me motiva a trabajar en un área que me apasione de manera constante. |
 
 ## 1.2. Solution Profile
 
@@ -225,9 +225,144 @@ Nuestro segmento objetivo está compuesto por dos tipos de usuarios:
 
 ## 2.1. Competidores
 
+Para realizar el análisis competitivo, hemos tomado en consideración competidores directos en su mayoría como:
+
+- **SpotHero**: SpotHero es un mercado de estacionamiento digital que conecta a los conductores que buscan reservar y pagar espacios de estacionamiento con estacionamientos, garajes de estacionamiento y servicios de valet.
+
+<div align="center"><img src="./assets/competidor1.PNG" alt="competidor1"/ width=15%>
+</div>
+
+- **ParkWhiz**: ParkWhiz es un servicio de estacionamiento electrónico que permite a los usuarios reservar espacios de estacionamiento antes de llegar a sus destinos. La sede de ParkWhiz se encuentra en Chicago, Illinois.
+
+<div align="center"><img src="./assets/competidor2.PNG" alt="competidor1"/ width=15%>
+</div>
+
+- **ParkMobile**: ParkMobile es una aplicación web y móvil que ofrece pagos de estacionamiento en América del Norte. Con sede en Atlanta, Georgia, los usuarios pueden pagar el estacionamiento en la vía pública y fuera de ella mediante una aplicación en su teléfono inteligente, un navegador web o llamando a un número de teléfono.
+
+<div align="center"><img src="./assets/competidor3.PNG" alt="competidor1"/ width=15%>
+</div>
+
 ## 2.1.1. Análisis competitivo
 
-## 2.1.2. Análisis competitivo
+<table>
+  <tr>
+    <th colspan="6" valign="top">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="4" valign="top">El objetivo de este análisis es identificar las características de los competidores y encontrar maneras de diferenciarnos.</td>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2" valign="top">Startup y Competidores</td>
+    <td valign="top">EzPark</td>
+    <td valign="top">SpotHero</td>
+    <td valign="top">ParkWhiz</td>
+    <td valign="top">ParkMobile</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="./assets/ezpark.PNG" alt="EzPark" height="100px"></td>
+    <td valign="top"><img src="./assets/competidor1.PNG" alt="Competidor1" height="100px"></td>
+    <td valign="top"><img src="./assets/competidor2.PNG" alt="Competidor2" height="100px"></td>
+    <td valign="top"><img src="./assets/competidor3.PNG" alt="Competidor3" height="100px"></td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Perfil</td>
+    <td valign="top">Overview</td>
+    <td valign="top">Ofrece al usuario poder encontrar un estacionamiento seguro en Lima donde pueda guardar su vehículo de una forma que el usuario no se preocupe por problemas de robo y otros. Así como también que una persona pueda alquilar su cochera a un vehículo.</td>
+    <td valign="top">Permite a los conductores reservar estacionamientos en línea y proporciona herramientas para que los propietarios de estacionamientos gestionen sus espacios.</td>
+    <td valign="top">Ofrece reservas de estacionamiento en línea y una plataforma para propietarios de estacionamientos para comercializar y gestionar sus espacios no utilizados.</td>
+    <td valign="top">Ofrece una aplicación que permite a los conductores encontrar y pagar por estacionamiento en la calle y en garajes, así como reservar espacios en algunos lugares.
+</td>
+  </tr>
+  <tr>
+    <td valign="top">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td valign="top">Brinda promociones a los usuarios concurrentes. Además de poder generar confianza en ellos al encontrar estacionamientos en zonas concurridas y también poder hacer que el usuario alquile sus cocheras.</td>
+    <td valign="top">Encontrar estacionamientos en zonas concurridas.</td>
+    <td valign="top">Vende a sus consumidores un lugar seguro para estacionarse de una manera mas segura.</td>
+    <td valign="top">Cuando buscas un estacionamiento, hay un filtro para los rangos de precios. Además, cuentan con solo las etiquetas específicas.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Perfil de Marketing</td>
+    <td valign="top">Mercado objetivo</td>
+    <td valign="top">Personas con vehículos que transitan por lugares muy concurridos de vehículos.</td>
+    <td valign="top">Personas que buscan un lugar de parqueo.</td>
+    <td valign="top">Usuarios de vehículos que viaja mucho por otro lugars.</td>
+    <td valign="top">Personas con vehículos que transitan por lugares muy concurridos.</td>
+  </tr>
+  <tr>
+    <td valign="top">Estrategias de marketing</td>
+    <td valign="top">Anunciar por redes sociales, implementar programas de referencia.</td>
+    <td valign="top">Solo en App store y Google Play.</td>
+    <td valign="top">Facebook, Instagram y Youtube lo promocionan.</td>
+    <td valign="top">Facebook y Youtube lo promocionan.</td>
+  </tr>
+  <tr>
+    <td rowspan="3" valign="top">Perfil de Producto</td>
+    <td valign="top">Productos & Servicios</td>
+    <td valign="top">Búsqueda de parking por filtros y precios.</td>
+    <td valign="top">Reserva de parking en zonas concurridas.</td>
+    <td valign="top">Reserva de estacionamientos .</td>
+    <td valign="top">Búsqueda de parqueo con filtros.</td>
+  </tr>
+  <tr>
+    <td valign="top">Precios & Costos</td>
+    <td valign="top">Suscripción.</td>
+    <td valign="top">Suscripción premium y Pro.</td>
+    <td valign="top">Inscripción a su club ParkWhiz.</td>
+    <td valign="top">Suscripción.</td>
+  </tr>
+  <tr>
+    <td valign="top">Canales de distribución (Web y/o Móvil)</td>
+    <td valign="top">Principalmente a través de su sitio web oficial y redes sociales.
+    </td>
+    <td valign="top">Principalmente a través de su sitio web oficial y en tiendas virtuales.
+    </td>
+    <td valign="top">Principalmente a través de su sitio web oficial y redes sociales.
+    </td>
+    <td valign="top">Principalmente a través de su sitio web oficial y redes sociales.
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="4" valign="top">Análisis SWOT</td>
+    <td valign="top">Fortalezas</td>
+    <td valign="top">Generar al usuario la confianza que necesita hacia nuestra aplicación.
+    </td>
+    <td valign="top">Reserva con dias de anticipacion.</td>
+    <td valign="top">Disfruta de su viaje mientras nosotros protegemos su vehículo.</td>
+    <td valign="top">Proporcionar las ubicaciones de los estacionamientos más seguros.</td>
+  </tr>
+  <tr>
+    <td valign="top">Debilidades</td>
+    <td valign="top">Temor de los usuarios de confiar en desconocidos que encuentran en la aplicación.</td>
+    <td valign="top">Preocupación de los usuarios sobre la posibilidad de que la plataforma les cobre un pequeño cargo adicional por reservar con mucha anticipación.</td>
+    <td valign="top">Los usuarios deben pedir con anticipación reserva para que llegue a tiempo o puede generar un retraso.</td>
+    <td valign="top">El diseño del aplicativo genera desconfianza, lo que puede llevar a los usuarios a ser redirigidos a lugares no deseados, con posibles riesgos.</td>
+  </tr>
+  <tr>
+    <td valign="top">Oportunidades</td>
+    <td valign="top">El crecimiento del interés por hallar un lugar seguro donde estacionar en cualquier distrito de Lima.
+    </td>
+    <td valign="top">Probar otros métodos de pago
+    </td>
+    <td valign="top">La gente confía más en una aplicación con mucha ayuda externa
+    </td>
+    <td valign="top">La experiencia de conocer e ir a lugares nuevos y estacionar su vehículo de manera segura.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Amenazas</td>
+    <td valign="top">Dificultad de que los usuarios sean estafados en algún momento
+    </td>
+    <td valign="top">Dificultad de que los usuarios permanezcan por los altos precios que ofrecen.
+    </td>
+    <td valign="top">Los usuarios que quisieran con urgencia un estacionamiento, no podrían contar con la app.
+    </td>
+    <td valign="top">Problemas en la interfaz de la app.
+    </td>
+  </tr>
+</table>
+
+## 2.1.2. Estrategias y tácticas frente a competidores
 
 Entre las principales estrategias y tácticas que ejecutaremos como startup se encuentran:
 
