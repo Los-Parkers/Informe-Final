@@ -482,13 +482,51 @@ Para el estilo principal en el cual se va a enfocar la aplicación web y la land
 
 ### 4.2.1. Organization Systems
 
+En cuanto al sistema de organización del contenido, se optó el patrón jerárquico (visal hierarchy) para organizar la información de las secciones. El tamaño de las fuentes es crucial para el usuario, donde la información más importante serán desde los textos más grandes hasta los más pequeños.
+
+Por otro lado, se utiliza categorización por audiencia para dirigirnos a postulantes y profesionales de recursos humanos, con secciones específicas para cada uno. Además, se implementa orden cronológico descendente en las entradas de la base de datos, priorizando las más recientes al principio para facilitar la consulta de los usuarios.
+
 ### 4.2.2. Labeling Systems
+
+Para el contenido, se prioriza la reducción de textos para brindar una mejor redacción y legibilidad de estos para los usuarios.
+
+Para el uso de botones se ha optado por un estilo minimalista, donde se usarán los colores primarios como fondo y bordes redondeados.
+
+En el tema de iconos, se emplean los colores creados del sistema de diseño del equipo.
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+**Landing Page**
+
+```html
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="robots" content="index, follow" />
+<link rel="shortcut icon" href="./images/favicon.png" type="image/x-icon" />
+<title>EzPark | Reserva tu estacionamiento</title>
+<meta
+  name="keywords"
+  content="estacionamiento,viviendas,anfitriones,gratuito,tarifas por hora,genera ingresos,vehiculos"
+/>
+<meta
+  name="description"
+  content="Estaciona rápido y ahorra tiempo. Más de 1000 estacionamientos disponibles por tu zona."
+/>
+```
+
 ### 4.2.4. Searching Systems
 
+En cuanto al sistema de búsqueda, se implementará la API de Google Maps para usar el mapa y el autocompletado para una mejor interacción y conseguir los datos de coordenadas.
+
+- El mapa principalmente es usado para mostrar al usuario la ubicación actual de la dirección seleccionada. Además, este contará con un sistema de navegación que permitirá asignar la dirección de manera interactiva.
+- El input es usado para usar el autocompletado de Google, el cual nos proporciona datos reales de direcciones, coordenadas y mostrará en el mapa la ubicación seleccionada.
+
 ### 4.2.5. Navigation Systems
+
+Para la landing page, el sistema de navegación se encontrará en el header donde se encontrarán enlaces que al presionar dirige al usuario hasta la sección correspondiente.
+
+Para la aplicación web, decidimos optar por un sidebar que permitirá una navegación práctica e intuitiva donde llevará al usuario a las funcionalidades principales de la aplicación.
 
 ### 4.3. Landing Page UI Design
 
