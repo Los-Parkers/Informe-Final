@@ -810,11 +810,169 @@ https://www.figma.com/file/WUD8UxRsDDLwfSv7HdwOPD/Mockup?type=design&mode=design
 
 ### 4.4.1. Web Applications Wireframes
 
+<p align="center">Registro de cuentas</p>
+
+![Registro de cuentas](./assets/WepApplication/wireframes/wireframe-registro.png)
+
+<p align="center">Inicio de sesión</p>
+
+![Inicio de sesión](./assets/WepApplication/wireframes/wireframe-login.png)
+
+<p align="center">Recuperar contraseña</p>
+
+![Recuperar contraseña](./assets/WepApplication/wireframes/wireframe-recover-password-1.png)
+
+![Recuperar contraseña](./assets/WepApplication/wireframes/wireframe-recover-password-2.png)
+
+<p align="center">Sección Find parking</p>
+
+![Sección Find parking](./assets/WepApplication/wireframes/wireframe-find-parking.png)
+
+<p align="center">Detalle parking</p>
+
+![Detalle parking](./assets/WepApplication/wireframes/wireframe-parking-detail.png)
+
+<p align="center">Ratings & Reviews</p>
+
+![Ratings & Reviews](./assets/WepApplication/wireframes/wireframe-reviews.png)
+
+<p align="center">Selección de horario de reserva</p>
+
+![Selección de horario de reserva](./assets/WepApplication/wireframes/wireframe-schedule-detail.png)
+
+<p align="center">Selección pago con tarjetas</p>
+
+![Selección pago con tarjetas](./assets/WepApplication/wireframes/wireframe-creditcard-payment.png)
+
+<p align="center">Selección pago con billeteras digitales</p>
+
+![Selección pago con billeteras digitales](./assets/WepApplication/wireframes/wireframe-yape-payment.png)
+
+<p align="center">Sección de pago con éxito</p>
+
+![Sección de pago con éxito](./assets/WepApplication/wireframes/wireframe-succesful-payment.png)
+
+<p align="center">Sección Rent your parking</p>
+
+![Sección Rent your parking](./assets/WepApplication/wireframes/wireframe-rent-parking.png)
+
+<p align="center">Sección Añadir cuenta de ingresos</p>
+
+![Sección Añadir cuenta de ingresos](./assets/WepApplication/wireframes/wireframe-adding-payment-method.png)
+
+<p align="center">Sección de Cuenta añadida con éxito</p>
+
+![Sección de Cuenta añadida con éxito](./assets/WepApplication/wireframes/wireframe-succesful-post.png)
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+**User goal:** Usuario se registra, recupera contraseña y inicia sesión a la aplicación con credenciales
+
+![](./assets/WepApplication/wireframes/wireframe-wireflow-1.png)
+
+**Descripción:**
+Al iniciar la aplicación, el usuario se encuentra en el formulario de registro de cuenta, en caso ya cuenta con una cuenta puede seleccionar en iniciar sesión. En caso de tener cuenta ingresa sus credenciales en el apartado de inicio de sesión y al ser las correctas accedera a la página principal de la plataforma. En caso no recuerde sus credenciales presionará en recuperar contraseña para recibir un link de cambio de contraseña. Una vez que el usuario ingresa con sus credenciales correctas con el inicio de sesión, podrá visualizar la página principal.
+
+---
+
+**User goal:** Usuario desea hacer la búsqueda y reserva de un espacio de estacionamiento
+
+![](./assets/WepApplication/wireframes/wireframe-wireflow-2.png)
+
+**Descripción:**
+El usuario al encontrarse en la sección de Find your parking, podrá visualizar y buscar estacionamientos de su preferencia. Al seleccionar un estacionamiento verá el detalle de este, aquí el usuario contará con tres opciones, regresar al menú principal, ver los comentarios o ir al apartado de selección de horario de reserva. El usuario al ingresar a la sección de selección de horario visualizará los horarios disponibles con los que cuenta dicho estacionamiento, así como también las horas en las que está reservado. Después que el horario seleccione el horario de su preferencia, pasará a parte de pago, donde podrá pagar con tarjetas de crédito, débito o billeteras digitales. Al finalizar el proceso de pago se le mostrará la venta de reserva realizada con éxito.
+
+---
+
+**User goal:** Usuario desea realizar el alquiler de un espacio que tiene disponible
+
+![](./assets/WepApplication/wireframes/wireframe-wireflow-3.png)
+
+**Descripción:**
+El usuario al encontrarse en la sección de Rent your parking, podrá visualizar todos los requisitos obligatorios que deberá ingresar para publicar su espacio. Al seleccionar Post parking, la aplicación le indicará que su espacio se publicó con éxito. En caso sea la primera vez del usuario publicando un espacio, le saltará una alerta que le indicará que aún no ha agregado un medio de pago para recibir sus ingresos. El usuario ingresa todos los detalles de su cuenta y después de la verificación se procederá con la publicación de su espacio con normalidad.
 
 ### 4.4.3. Web Applications Mock-ups
 
+<p align="center">Registro de cuentas</p>
+
+![Registro de cuentas](./assets/WepApplication/mockups/mockup-registro.png)
+
+<p align="center">Inicio de sesión</p>
+
+![Inicio de sesión](./assets/WepApplication/mockups/mockup-login.png)
+
+<p align="center">Recuperar contraseña</p>
+
+![Recuperar contraseña](./assets/WepApplication/mockups/mockup-recover-password-1.png)
+
+![Recuperar contraseña](./assets/WepApplication/mockups/mockup-recover-password-2.png)
+
+<p align="center">Sección Find parking</p>
+
+![Sección Find parking](./assets/WepApplication/mockups/mockup-find-parking.png)
+
+<p align="center">Detalle parking</p>
+
+![Detalle parking](./assets/WepApplication/mockups/mockup-parking-detail.png)
+
+<p align="center">Ratings & Reviews</p>
+
+![Ratings & Reviews](./assets/WepApplication/mockups/mockup-reviews.png)
+
+<p align="center">Selección de horario de reserva</p>
+
+![Selección de horario de reserva](./assets/WepApplication/mockups/mockup-schedule-detail.png)
+
+<p align="center">Selección pago con tarjetas</p>
+
+![Selección pago con tarjetas](./assets/WepApplication/mockups/mockup-creditcard-payment.png)
+
+<p align="center">Selección pago con billeteras digitales</p>
+
+![Selección pago con billeteras digitales](./assets/WepApplication/mockups/mockup-yape-payment.png)
+
+<p align="center">Sección de pago con éxito</p>
+
+![Sección de pago con éxito](./assets/WepApplication/mockups/mockup-succesful-payment.png)
+
+<p align="center">Sección Rent your parking</p>
+
+![Sección Rent your parking](./assets/WepApplication/mockups/mockup-rent-parking.png)
+
+<p align="center">Sección Añadir cuenta de ingresos</p>
+
+![Sección Añadir cuenta de ingresos](./assets/WepApplication/mockups/mockup-adding-payment-method.png)
+
+<p align="center">Sección de Cuenta añadida con éxito</p>
+
+![Sección de Cuenta añadida con éxito](./assets/WepApplication/mockups/mockup-succesful-post.png)
+
 ### 4.4.4. Web Applications User Flow Diagrams
+
+**User goal:** Usuario se registra, recupera contraseña y inicia sesión a la aplicación con credenciales
+
+![](./assets/WepApplication/mockups/mockup-wireflow-1.png)
+
+**Descripción:**
+Al iniciar la aplicación, el usuario se encuentra en el formulario de registro de cuenta, en caso ya cuenta con una cuenta puede seleccionar en iniciar sesión. En caso de tener cuenta ingresa sus credenciales en el apartado de inicio de sesión y al ser las correctas accedera a la página principal de la plataforma. En caso no recuerde sus credenciales presionará en recuperar contraseña para recibir un link de cambio de contraseña. Una vez que el usuario ingresa con sus credenciales correctas con el inicio de sesión, podrá visualizar la página principal.
+
+---
+
+**User goal:** Usuario desea hacer la búsqueda y reserva de un espacio de estacionamiento
+
+![](./assets/WepApplication/mockups/mockup-wireflow-2.png)
+
+**Descripción:**
+El usuario al encontrarse en la sección de Find your parking, podrá visualizar y buscar estacionamientos de su preferencia. Al seleccionar un estacionamiento verá el detalle de este, aquí el usuario contará con tres opciones, regresar al menú principal, ver los comentarios o ir al apartado de selección de horario de reserva. El usuario al ingresar a la sección de selección de horario visualizará los horarios disponibles con los que cuenta dicho estacionamiento, así como también las horas en las que está reservado. Después que el horario seleccione el horario de su preferencia, pasará a parte de pago, donde podrá pagar con tarjetas de crédito, débito o billeteras digitales. Al finalizar el proceso de pago se le mostrará la venta de reserva realizada con éxito.
+
+---
+
+**User goal:** Usuario desea realizar el alquiler de un espacio que tiene disponible
+
+![](./assets/WepApplication/mockups/mockup-wireflow-3.png)
+
+**Descripción:**
+El usuario al encontrarse en la sección de Rent your parking, podrá visualizar todos los requisitos obligatorios que deberá ingresar para publicar su espacio. Al seleccionar Post parking, la aplicación le indicará que su espacio se publicó con éxito. En caso sea la primera vez del usuario publicando un espacio, le saltará una alerta que le indicará que aún no ha agregado un medio de pago para recibir sus ingresos. El usuario ingresa todos los detalles de su cuenta y después de la verificación se procederá con la publicación de su espacio con normalidad.
 
 ## 4.5. Web Applications Prototyping
 
