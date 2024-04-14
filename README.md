@@ -976,6 +976,11 @@ El usuario al encontrarse en la sección de Rent your parking, podrá visualizar
 
 ## 4.5. Web Applications Prototyping
 
+En esta sección se compartirán los prototipos relacionados a la aplicación web, donde se presentan el alcance de los user goals en ambos segmentos objetivos. 
+
+Links Figma Web Applications Prototype:
+
+
 ## 4.6. Domain-Driven Software Architecture
 
 Para la construcción de los siguientes diagramas, se hizo uso de la herramienta Structurizr, la cual permite crear los mismos mediante líneas de código.
