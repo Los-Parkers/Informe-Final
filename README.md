@@ -619,11 +619,11 @@ En esta sección se presentan los To-Be Scenario Mapping para cada segmento obje
 
 To-Be Scenario Mapping: Usuario de Parking
 
-<img src="" alt="To-be Scenario Mapping Usuario de parking" />
+<img width=100% src="./assets/tobeScenarioMapping1.PNG" alt="To-be Scenario Mapping Usuario de parking" />
 
 To-Be Scenario Mapping: Anfitrión
 
-<img src="" alt="To-be Scenario Mapping Anfitrion" />
+<img width=100% src="./assets/tobeScenarioMapping2.PNG" alt="To-be Scenario Mapping Anfitrion" />
 
 ## 3.2. User Stories
 
@@ -640,14 +640,20 @@ Link del documento: https://docs.google.com/document/d/1YYZbm5dNd7L1iOadOjZnqK79
 Con el fin de mejorar nuestra comprensión de los grupos a los que nos dirigimos, en esta sección emplearemos la herramienta Impact Map. Esta herramienta nos permite establecer una conexión entre las necesidades de nuestros usuarios y los objetivos de nuestro proyecto mediante la identificación de impactos y entregables. Los impactos nos muestran las acciones que nuestros usuarios deben llevar a cabo para acercarnos a nuestros objetivos, mientras que los entregables nos indican de qué manera podemos apoyarlos para alcanzar dichos objetivos. A continuación, presentamos los mapas de impacto de los usuarios.
 
 Impact Mapping: Usuario de Parking
-<img src="" alt="Impact Mapping Usuario de parking" />
+<img width=100% src="./assets/impactMapping1.PNG" alt="Impact Mapping Usuario de parking" />
 
 Impact Mapping: Anfitrión
-<img src="" alt="Impact Mapping Usuario de parking" />
+<img width=100% src="./assets/impactMapping2.PNG" alt="Impact Mapping Usuario de parking" />
 
 ## 3.4. Product Backlog
 
 A continuación se muestra la elaboración del Product Backlog en la herramienta Trello:
+
+<img width=100% src="./assets/productBacklog1.PNG" alt="Product Backlog" />
+
+Link del documento: https://docs.google.com/document/d/1YYZbm5dNd7L1iOadOjZnqK79K6kh5M_rQ3BcS6xOpTs/edit?usp=sharing
+
+![Vista previa del Product Backlog](./assets/product-backlog-preview.png)
 
 # Capítulo IV: Product Design
 
