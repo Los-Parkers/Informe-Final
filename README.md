@@ -34,6 +34,11 @@
 ABET – EAC - Student Outcome 5: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
 establecen objetivos, planifican tareas y cumplen objetivos.
 
+| Criterio específico                                                                                                                                  | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Conclusiones |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Oliveira Paucar, Mauricio<br/>TB1: a<br/> <br/>Garro Vega, Marcelo Fabian<br/>TB1: En el desarrollo de este entregable buscamos encontrar las necesidades de nuestro segmento objetivo. Buscamos como equipo una organización de actividades para mantener una mejor eficiencia.<br/><br/>Méndez Vargas, Sebastian Orlando<br/>TB1: Para este entregable, logramos tener en claro la solución que queremos brindar a nuestro segmentos objetivos. Asimismo, estuve pendiente de las reuniones que realizamos con mi equipo y trabajamos según un marco de progreso y de forma colaborativa en todo momento.<br/>Gonzales Arotinco, Bruno Leonardo<br/>TB1: a                                                                                                              |
+| Conoce al menos un sector empresarial o domínio de aplicación de soluciones de software.                                                             | Oliveira Paucar, Mauricio<br/>TB1: a<br/><br/>Garro Vega, Marcelo Fabian<br/>TB1: Tras entrevistar a nuestro segmento objetivo, comprendimos sus necesidades diarias, lo que nos permitió identificar problemas destacados y preferencias para ofrecer soluciones personalizadas e innovadoras.<br/><br/>Méndez Vargas, Sebastian Orlando<br/>TB1: Tras entrevistar a nuestro segmento objetivo, logré comprender y entender las necesidades, a veces repentinas, con las que lidian a diario. Es por este motivo que se logró identificar los problemas más resaltantes y preferencias que tienen ellos mismos para así llegar a una solución innovadora y personalizada para cada uno de nuestros usuarios.<br/><br/>Gonzales Arotinco, Bruno Leonardo<br/>TB1: a <br/> |              |
+
 # Capítulo 1
 
 ## 1.1. Startup Profile
@@ -46,21 +51,21 @@ EzPark se propone revolucionar la forma en que las personas encuentran y utiliza
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-|                               | Oliveira Paucar, Mauricio                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="" alt="Mauricio" /> | <strong>Ingeniería de Software - U201719831</strong><br />Tengo 23 años, me gusta mucho aprender cosas nuevas sobre mi carrera, trabajar en equipo de manera proactiva y lograr los objetivos junto a mis compañeros. Me considero una persona ambiciosa, ya que mi meta es llegar a obtener un alto cargo en una empresa que me agrade o formar mi propia empresa relacionada al software. Gracias a ello siempre podré trabajar en algo que me guste. |
+|                                                       | Oliveira Paucar, Mauricio                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img height="90" width="400" src="" alt="Mauricio" /> | <strong>Ingeniería de Software - U201719831</strong><br />Tengo 23 años, me gusta mucho aprender cosas nuevas sobre mi carrera, trabajar en equipo de manera proactiva y lograr los objetivos junto a mis compañeros. Me considero una persona ambiciosa, ya que mi meta es llegar a obtener un alto cargo en una empresa que me agrade o formar mi propia empresa relacionada al software. Gracias a ello siempre podré trabajar en algo que me guste. |
 
-|                               | Garro Vega, Marcelo Fabian                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="" alt="Mauricio" /> | <strong>Ingeniería de Software - U20201C410</strong><br />Soy un estudiante universitario de 21 años apasionado por el mundo de la tecnología y su capacidad para resolver problemas cotidianos. Me considero una persona organizada, responsable y optimista que busca la mejor manera solucionar los problemas. <br/> Me especializo en el ámbito del desarrollo frontend, priorizando siempre la experiencia del usuario. <br/>Me comprometo a ser un gran aporte al equipo, apoyando a mis compañeros y compartir mis conocimientos de desarrollo. |
+|                                                                                | Garro Vega, Marcelo Fabian                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img height="90" width="400" src="./assets/team/marcelo.png"  alt="Marcelo" /> | <strong>Ingeniería de Software - U20201C410</strong><br />Soy un estudiante universitario de 21 años apasionado por el mundo de la tecnología y su capacidad para resolver problemas cotidianos. Me considero una persona organizada, responsable y optimista que busca la mejor manera solucionar los problemas. <br/> Me especializo en el ámbito del desarrollo frontend, priorizando siempre la experiencia del usuario. <br/>Me comprometo a ser un gran aporte al equipo, apoyando a mis compañeros y compartir mis conocimientos de desarrollo. |
 
-|                               | Méndez Vargas, Sebastian Orlando                                                                                                                                                                                                                                                                                                                                                                                          |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="" alt="Mauricio" /> | <strong>Ingeniería de Software - U20201F140</strong><br />Tengo 21 años y disfruto de temas relacionados a la tecnología moderna (IA, machine learning, etc). Aprendo mucho al trabajar en equipos y soy creativo a la hora de proponer ideas y soluciones tecnológicas. Me considero como una persona sociable y que le gusta compartir ideas con sus compañeros, todo sea por dar lo mejor de nosotros en cada trabajo. |
+|                                                        | Méndez Vargas, Sebastian Orlando                                                                                                                                                                                                                                                                                                                                                                                          |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img height="90" width="400" src="" alt="Sebastian" /> | <strong>Ingeniería de Software - U20201F140</strong><br />Tengo 21 años y disfruto de temas relacionados a la tecnología moderna (IA, machine learning, etc). Aprendo mucho al trabajar en equipos y soy creativo a la hora de proponer ideas y soluciones tecnológicas. Me considero como una persona sociable y que le gusta compartir ideas con sus compañeros, todo sea por dar lo mejor de nosotros en cada trabajo. |
 
-|                               | Gonzales Arotinco, Bruno Leonardo                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="" alt="Mauricio" /> | <strong>Ingeniería de Software - U201820037</strong><br />Mi edad es 24 años y disfruto adquiriendo nuevos conocimientos sobre mi carrera. Me destaco por colaborar de forma activa en equipos y alcanzar metas junto a ellos. Soy una persona divertida, ya que intento buscarle lo divertido a la vida y a nivel profesional busco establecer mi propio negocio en el ámbito del software. Esta ambición me motiva a trabajar en un área que me apasione de manera constante. |
+|                                                    | Gonzales Arotinco, Bruno Leonardo                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img height="90" width="400" src="" alt="Bruno" /> | <strong>Ingeniería de Software - U201820037</strong><br />Mi edad es 24 años y disfruto adquiriendo nuevos conocimientos sobre mi carrera. Me destaco por colaborar de forma activa en equipos y alcanzar metas junto a ellos. Soy una persona divertida, ya que intento buscarle lo divertido a la vida y a nivel profesional busco establecer mi propio negocio en el ámbito del software. Esta ambición me motiva a trabajar en un área que me apasione de manera constante. |
 
 ## 1.2. Solution Profile
 
@@ -206,6 +211,8 @@ Nuestro producto es usado como un gestor de cocheras sobre reservas, estados, re
 
 #### 1.2.2.4. Lean UX Canvas.
 
+![Lean UX Canvas de Los Parkers](./assets/lean-ux-canvas.jpg)
+
 ### 1.3. Segmentos objetivos.
 
 Nuestro segmento objetivo está compuesto por dos tipos de usuarios:
@@ -295,14 +302,14 @@ Terminada la entrevista a Jesus Pedro Casana, el nos comenta que es joven univer
 
 Segmento objetivo: Usuario de Parking y Anfitrión
 Entrevista 5: Edu Arturo Antayhua Ticona (San Miguel) - 6 de Abril, 2024
-<img src="" alt="Entrevista de Edu Arturo Antayhua" />
+<img src="./assets/entrevistas/entrevista-edu.png" alt="Entrevista de Edu Arturo Antayhua" />
 Se ha entrevistado a Edu Arturo Antayhua Ticona que tiene 21 años y trabaja de bartender. El menciona que usa su vehículo todos los días para ir a trabajar, estudiar y salir con su familia a pasear. Del mismo modo también dice que se le dificulta mucho salir a pasear con su vehículo ya que no encuentra un estacionamiento seguro por las zonas donde él normalmente se moviliza. También menciona que el uso de una aplicación con los servicios que mencionamos le serían de gran ayuda para su día a día..
 
 ---
 
 Segmento objetivo: Usuario de Parking y Anfitrión
 Entrevista 6. Rodrigo Tornero Loayza (Santiago de Surco) - 6 de Abril, 2024
-<img src="" alt="Entrevista de Rodrigo Tornero Loayza" />
+<img src="./assets/entrevistas/entrevista-rodrigo.png" alt="Entrevista de Rodrigo Tornero Loayza" />
 Se le ha realizado una entrevista a Rodrigo Tornero Loayza que cuenta con 21 años. El menciona que usó su vehículo de Lunes a Sábado para ir a la universidad y comprar algunas cosas que necesita para su universidad. El menciona también que durante la tarde cuando necesite un estacionamiento no hay debido a la alta demanda. El cree que usar la app que brinda nuestro servicio podría solucionar esos problemas y le ayudará a ahorrar un poco de tiempo. Respecto a los servicios de nuestra app, Rodrigo menciona que él considera viable la opción de alquilar una cochera a una persona si los estacionamiento se encuentran ocupados. Del mismo modo el dice que también sería capaz de alquilar su cochera si en algún momento no llegará a usarlo.
 
 ### 2.2.3. Análisis de entrevistas.
@@ -455,3 +462,501 @@ Para el sistema de espaciado se ha decidido que se usará una cantidad de medida
 **Colors**
 Como equipo, hemos decidido seleccionar colores que brindan al usuario una sensación de confianza, seguridad y aventura. Para ello, seleccionamos los colores Azules y Naranja con sus códigos #3C4E67 y #EF6C42 respectivamente. Además, para agregar una mayor utilidad al sistema decidimos usar sus tonalidades desde la más clara hasta la más oscura. Por último, para los textos optamos por los un color negro y gris oscuro.
 ![Imagen de Colores](./assets/spacing.png)
+
+### 4.1.2. Web Style Guidelines
+
+Para el estilo principal en el cual se va a enfocar la aplicación web y la landing page son:
+
+- **Diseño minimalista y colorido**
+  La aplicación tendrá un tono minimalista para evitar llenar de información al usuario como excesiva cantidad de elementos en pantalla.
+- **Imágenes ilustrativas**
+  Para mostrar el uso de las imágenes optamos por usar ilustraciones en cambio de las imágenes estilo fotografía, ya que estas encajan perfecto con el estilo minimalista y además de una mayor personalización.
+
+- **Elementos intuitivos de interacción**
+  Los elementos de nuestra aplicación son intuitivos para brindar una mayor experiencia de usuario. Cabe recalcar que la mayoría de estos elementos estarán resaltados con los colores primarios y secundarios.
+
+- **Contraste de colores**
+  Para una mayor redacción de la aplicación, tomamos en cuenta el nivel de contraste entre dos o más elementos.
+
+## 4.2. Information Architecture
+
+### 4.2.1. Organization Systems
+
+### 4.2.2. Labeling Systems
+
+### 4.2.3. SEO Tags and Meta Tags
+
+### 4.2.4. Searching Systems
+
+### 4.2.5. Navigation Systems
+
+### 4.3. Landing Page UI Design
+
+En esta sección se mostrará las propuestas de estructuración para el producto Landing Page y como estará seccionado la información sobre este. La herramienta empleada es Figma, una aplicación colaborativa para el desarrollo de diseños, en este caso web.
+
+Enlace a producto Landing Page: https://ezpark.vercel.app/
+
+Link de los Wireframes: https://www.figma.com/file/dargu4Ae3jhWlXIuqIJpp1/Wireframes?type=design&node-id=0%3A1&mode=design&t=RYNYuWXzwduFUafA-1
+
+Link de los Mock-Ups:
+https://www.figma.com/file/WUD8UxRsDDLwfSv7HdwOPD/Mockup?type=design&mode=design&t=jRbuUa4skZq5p3Xs-1
+
+#### 4.3.1. Landing Page Wireframe
+
+**<p align="center">Header</p>**
+
+![Wireframe header](./assets/landing/wireframes/wireframe-header.jpg)
+
+**<p align="center">Sección Hero (Principal)</p>**
+![Wireframe hero](./assets/landing/wireframes/wireframe-hero.jpg)
+
+**<p align="center">Sección Producto</p>**
+![Wireframe producto](./assets/landing/wireframes/wireframe-product.jpg)
+
+**<p align="center">Sección Testimonios (Reseñas)</p>**
+![Wireframe testimonios](./assets/landing/wireframes/wireframe-reviews.jpg)
+
+**<p align="center">Sección Precios (Pricing)</p>**
+![Wireframe pricing](./assets/landing/wireframes/wireframe-pricing.jpg)
+
+**<p align="center">Sección Sobre Nosotros</p>**
+![Wireframe about us](./assets/landing/wireframes/wireframe-about-us.jpg)
+
+**<p align="center">Footer</p>**
+![Wireframe footer](./assets/landing/wireframes/wireframe-footer.jpg)
+
+#### 4.3.2. Landing Page Mock-up
+
+**<p align="center">Header</p>**
+
+![Mockup header](./assets/landing/mockups/mockup-header.jpg)
+
+**<p align="center">Sección Hero (Principal)</p>**
+![Mockup hero](./assets/landing/mockups/mockup-hero.jpg)
+
+**<p align="center">Sección Producto</p>**
+![Mockup producto](./assets/landing/mockups/mockup-product.jpg)
+
+**<p align="center">Sección Testimonios (Reseñas)</p>**
+![Mockup testimonios](./assets/landing/mockups/mockup-reviews.png)
+
+**<p align="center">Sección Precios (Pricing)</p>**
+![Mockup pricing](./assets/landing/mockups/mockup-pricing.jpg)
+
+**<p align="center">Sección Sobre Nosotros</p>**
+![Mockup about us](./assets/landing/mockups/mockup-about-us.jpg)
+
+**<p align="center">Footer</p>**
+![Mockup footer](./assets/landing/mockups/mockup-footer.jpg)
+
+## 4.4. Web Applications UX/UI Design
+
+### 4.4.1. Web Applications Wireframes
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+### 4.4.3. Web Applications Mock-ups
+
+### 4.4.4. Web Applications User Flow Diagrams
+
+## 4.5. Web Applications Prototyping
+
+## 4.6. Domain-Driven Software Architecture
+
+Para la construcción de los siguientes diagramas, se hizo uso de la herramienta Structurizr, la cual permite crear los mismos mediante líneas de código.
+
+### 4.6.1. Software Architecture Context Diagram
+
+<img src="" alt="Software Architecture Context Diagram" />
+
+**Elementos del diagrama:**
+
+<img src="" alt="Software Architecture Context Diagram Elements" />
+
+### 4.6.2. Software Architecture Container Diagrams
+
+<img src="" alt="Software Architecture Container Diagram" />
+
+**Elementos del diagrama:**
+
+<img src="" alt="Software Architecture Container Diagram Elements" />
+
+### 4.6.3. Software Architecture Components Diagrams
+
+<img src="" alt="Software Architecture Components Diagram" />
+
+**Elementos del diagrama:**
+
+<img src="" alt="Software Architecture Components Diagram Elements" />
+
+## 4.7. Software Object-Oriented Design.
+
+### 4.7.1. Class Diagrams
+
+<img src="" alt="Diagrama de clases" />
+
+### 4.7.2. Class Dictionary
+
+**Class Usuario**
+
+| Attribute         | Type       | Description                   |
+| ----------------- | ---------- | ----------------------------- |
+| id                | string     | Unique code for user          |
+| nombre            | string     | Name of user                  |
+| apellido          | string     | Last name of user             |
+| dni               | string     | Identity document of user     |
+| telefono          | string     | Phone number of user          |
+| fechaNacimiento   | string     | Birthdate of user             |
+| historialReservas | Reservas[] | Array of reservations of user |
+
+**Class Guest**
+
+| Attribute     | Type       | Description                           |
+| ------------- | ---------- | ------------------------------------- |
+| vehiculo      | Vehiculo[] | Array of vehicles of Guest            |
+| reservaActiva | Reserva[]  | Array of active reservations of Guest |
+
+**Class Host**
+
+| Attribute        | Type              | Description                     |
+| ---------------- | ----------------- | ------------------------------- |
+| estacionamientos | Estacionamiento[] | Array of parking spaces of Host |
+
+**Class Estacionamiento**
+| Attribute | Type | Description |
+|-------------------|------------|----------------------------------|
+| id | string | Unique code for parking space |
+| ubicacion | Ubicacion | Location of parking space |
+| dimension | Dimension | Dimensions of parking space |
+| maxCapacidad | int | Identity document of user |
+| capDisponible | int | Phone number of user |
+| tarifaPorHora | double | Cost per hour of parking space |
+| calificacionTotal | double | Rating of parking space |
+| resenias | string[] | Array of reviews of parking space|
+| horario | Horario[] | Array of schedules of parking space|
+| telefonoServicio | string | Phone number of parking space |
+| descripcion | string | Description of parking space |
+
+**Class Dimension**
+| Attribute | Type | Description |
+| --------- | ------ | ------------------------ |
+| ancho | double | Width of parking space |
+| largo | double | Length of parking space |
+| alto | double | Height of parking space |
+
+**Class Ubicacion**
+| Attribute | Type | Description |
+| --------------- | ------- | ------------------------ |
+| id | string | Unique code for location |
+| distrito | string | District of location |
+| ciudad | string | City of location |
+| coordenadas | string[]| Coordinates of location |
+| tipoDireccion | string | Type of address of location |
+| numeroDireccion | string | Address number of location |
+| calle | string | Street of location |
+| referencia | string | Reference of location |
+
+**Class Preferencias**
+| Attribute | Type | Description |
+| ---------------------- | ---------------- | ------------------------------------ |
+| tema | string | Preferred theme of app |
+| idioma | string | Preferred language of app |
+| estacionamientosFavoritos | Estacionamiento[] | Array of preferred parking spaces of user |
+
+**Class Vehiculo**
+| Attribute | Type | Description |
+| --------- | ------ | ------------------ |
+| id | string | Unique code for vehicle |
+| placa | string | Plate of vehicle |
+| modelo | string | Model of vehicle |
+| marca | string | Brand of car |
+
+**Class Buscador**
+| Attribute | Type | Description |
+| ----------- | ------ | ---------------------------- |
+| prompt | string | Prompt inserted by user |
+| coordenadas | string | Coordinates inserted by user |
+| filtros | Filtro[] | Filters added by user |
+
+**Class Reserva**
+| Attribute | Type | Description |
+| ----------- | ---------- | ------------------------------- |
+| id | string | Unique code for reservation |
+| guest | Guest | Guest registered on reservation |
+| host | Host | Host registered on reservation |
+| estacionamiento | Estacionamiento | Selected parking space for reservation |
+| tarifaTotal | double | Total cost of reservation |
+| horaInicio | string | Start time of reservation |
+| horaFin | string | End time of reservation |
+| resenia | string | Review of reservation by guest |
+| calificacion | double | Rating of reservation by guest |
+| estado | string | Status of reservation |
+
+**Class Horario**
+| Attribute | Type | Description |
+| ----------- | ------ | ------------------------------- |
+| horaInicio | string | Start time of availability of parking space |
+| horaFin | string | End time of availability of parking space |
+| horarioOcupado | {string, string} | Not available schedules of parking space |
+
+## 4.8. Database Design
+
+### 4.8.1. Database Diagram
+
+<img src="" alt="Diagrama de base de datos" />
+
+# Capítulo V: Product Implementation, Validation & Deployment
+
+## 5.1. Software Configuration Management
+
+### 5.1.1. Software Development Environment Configuration
+
+**Project Management**
+
+- **Trello.** Es una aplicación web y móvil que nos proporciona una mejor gestión para las actividades o tareas del equipo. Esta herramienta nos sirve para tener un mejor seguimiento de actividades, separación de responsabilidades y estimación de tiempos para cada una de ellas, ofreciéndonos un desarrollo del equipo sostenible.
+- **Discord.** Aplicación web y móvil usada para la comunicación. Aporta bastante para las reuniones del equipo por su función de llamadas en grupo, además de la capacidad de compartir pantalla. Se empleó principalmente para comunicar las actividades del proyecto por los siguientes medios: texto, imágenes, videos, llamadas, etc.
+
+**Requirements Management**
+
+- **Trello.** Para el manejo de los requerimientos del proyecto se usó el Kanban de Trello, incorporando nuestro Product Backlog. Cuenta con integraciones de GitHub, el cual nos permite relacionar que commits o ramas pertenecen a cada tarjeta (requirement)
+- **Product **UX/UI Design
+- **UXPressia.** Se usó para elaborar los User Personas, el Customer Journey Map, Empathy Map e Impact Map debido a su variedad de plantillas y su naturaleza colaborativa y gratuita
+- **Miro.** Se empleó para desarrollar escenarios mapping para ambos segmentos objetivos.
+- **Figma.** Para crear wireframes, mockups y prototipos de aplicaciones móviles de forma colaborativa, y su acceso es gratuito con una cuenta registrada.
+
+**Software Development**
+
+- **Node.** Es un entorno de trabajo que nos permite ejecutar el lenguaje de programación JavaScript en el escritorio. Es fundamental tener conocimientos básicos de Node para un correcto desarrollo de aplicaciones web e integraciones de frameworks y/o librerías.
+- **Git y GitHub.** Git es una herramienta para el control de versiones y flujo de desarrollo del producto software en base a ramas (branches). Por otro lado, GitHub es una plataforma web basada en Git, lo que significa la capacidad de trabajar los repositorios en remoto y la colaboración entre desarrolladores del equipo.
+- **VueJS.** Framework empleado para el desarrollo Frontend de la aplicación. Esta herramienta nos permite crear interfaces de usuarios, facilitandonos diversos problemas como manejo de estados o consultas de API REST.
+- **ASP.Net Core.** Framework empleado para el desarrollo Backend de la aplicación. Nos permite crear servicios de manera estructurada para una mayor escalabilidad del proyecto.
+- **Visual Studio Code.** IDE empleado por equipo de desarrollo debido a su gran comunidad y extensiones que facilita la integración de diversos lenguajes y frameworks de aplicación. Es usado principalmente para el desarrollo Frontend.
+- **Rider.** IDE para el desarrollo backend. Este nos ofrece una mayor eficiencia para el proceso de desarrollo debido a sus funcionalidades enfocadas principalmente para ASP.Net Core.
+
+**Software Deployment**
+
+- **Vercel.** Una plataforma web enfocada principalmente para lanzar productos web. Ofrece la capacidad de poder trabajar con múltiples frameworks. Principalmente lo usamos para lanzar a producción nuestra aplicación basada en VueJS.
+
+**Software Documentation**
+
+- **Google Drive.** Se usó la plataforma de Google Drive para subir archivos de documentos Word y PowerPoint. Ofrece sesión colaborativa en tiempo real con los miembros de equipo.
+- **Github.** En los repositorios de GitHub existe un archivo especial para mostrar a los usuarios un resumen del proyecto conocido como README, el cual está en formato MarkDown.
+
+### 5.1.2. Source Code Management
+
+Para el desarrollo de un proyecto software se necesita mantener un flujo para diferentes ámbitos, ya sean producción, desarrollo o workspaces para cada requerimientos del Product Backlog. Para ello, optamos por la herramienta Git debido a su control de versiones y flujo de trabajo basado en ramas. Además, para el desarrollo del proyecto en equipo se empleó GitHub.
+
+Organización: https://github.com/Los-Parkers
+
+Repositorio LandingPage: https://github.com/Los-Parkers/LandingPage
+
+**Flujo de trabajo en Git**
+Para llevar a cabo el proyecto, establecimos un modelo de ramas basado en el tradicional GitFlow.
+
+- Ramas principales
+
+  - main
+    Rama principal donde se encontrará el código en producción. En otras palabras, la última versión disponible para los usuarios.
+  - dev
+    Rama de desarrollo donde se encontrarán los últimos features o requirements preparados para ser validados y posteriormente llevado a producción.
+
+- Ramas auxiliares
+  - feat/[US-XX]
+    Rama donde se trabajara el requirement asignado sin afectar el flujo de otros colaboradores. Al terminar con su objetivo, pasarán a unirse con la rama de desarrollo. Al nombrar la rama se pondrá el título corto del requirement a realizar.
+  - hotfix
+    Rama donde se trabajara en una solución inmediata para solventar un bug que se encuentre en producción.
+  - release/vX.X.X
+    Rama donde se encontrara los features validados y listos para pasar a producción, liberando la rama dev para no interrumpir el flujo de trabajo. En esta rama. Al nombrar la rama se pondrá el número de versión de la aplicación por subir.
+
+**Convenciones para los commits**
+El modelo para todos los commits que realizaremos durante el proyecto está basado en la estructura de “Conventional Commits” (https://www.conventionalcommits.org/en/v1.0.0/).
+Se optó por este modelo debido a la facilidad de redacción e identificación de efecto del commit.
+
+`<type>(scope): <description>`
+
+Ejemplo: `feat #2: add testimonials carousel`
+
+Donde:
+
+- type: Campo obligatorio. En este apartado especifica el tipo de cambio realizado.
+  Los tipos de commits serán los siguientes.
+  - feat: Introduce una nueva funcionalidad al código fuente.
+  - fix: Arregla una incidencia del código fuente.
+  - style: Agrega cambios de estilo al producto, en este caso los archivos CSS.
+  - refactor: Agrega mejoras del código fuente y NO agrega funcionalidad. Una mejora del código fuente puede ser implementar “buenas prácticas”.
+  - docs: Cambios en la documentación del proyecto. No afecta las funcionalidades del proyecto.
+  - build: Cambios en la configuración del proyecto, como cambiar, agregar o eliminar dependencias del proyecto.
+- scope: Campo opcional. Indica el alcance de impacto que tiene el commit. En este caso pondremos los identificadores de las user stories o requirements.
+- description: Campo obligatorio. Un breve resumen del commit. Se escribirá en inglés y debe iniciar con un verbo en infinitivo.
+
+**Convenciones para versionamiento de lanzamientos**
+Para el formato de las versiones, se rescataran el modelo de “Semantic Versioning 2.0.0”. (https://semver.org/) y se implementara nuevas características. Esta decisión fue por decisión del equipo para llevar a cabo un mejor versionamiento.
+
+Los commits y tags para los lanzamientos tendrán la siguiente estructura:
+`“Release vX.Y.Z”`
+
+Donde:
+
+- X: Representa un cambio de versión mayor (MAJOR). Principalmente se realizan cambios en este número cuando los cambios a realizar tengan un gran impacto entre las versiones anteriores.
+- Y: Representa un cambio de versión menor (MINOR). Son usados para indicar la integración de algún feature en el producto final.
+- Z: Representa los parches ante los bugs (PATCH). No representan un cambio en las funcionalidades, solo se encarga de corregir errores de los features.
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+En esta sección se explicará a detalle las nomenclaturas de los siguientes lenguajes de programación y frameworks a emplear. Cabe recalcar que todas las convenciones estarán en inglés.
+
+- HTML
+  - Los nombres de las etiquetas deben estar en lowercase (minúscula).
+  - Todas las etiquetas deben estar cerradas.
+  - Los atributos de las etiquetas deben estar en lowercase (minúscula).
+  - Los valores de los atributos deben estar encerrados en comillas dobles.
+  - Las Imágenes tienen que tener los atributos alt, width y height por motivos de accesibilidad y rendimiento.
+  - No agregar líneas en blanco y espacios sin ninguna razón.
+- CSS
+  - Usar nombres específicos o generales para las clases.
+  - Acortar nombre de clase sin perder el mensaje.
+  - Para separar las palabras en un nombre de clase usaremos “-”.
+  - Evitar selectores de ID.
+  - Usar valores abreviados para las propiedades.
+  - No usar la declaración !important.
+- JavaScript
+  - No usar la palabra reservada var. Emplear const y let en su lugar.
+  - Usar camelCase para nombrar variables y funciones.
+  - Usar PascalCase para nombrar clases.
+  - Usar UPPERCASE para nombrar constantes.
+  - No usar el constructor Array para la creación de arreglos.
+  - Uso de Rest Operator
+  - Uso de Spread Operator
+- C#
+  - Nombrar las clases o estructuras con pascalcase.
+  - Nombrar los parámetros con camelcase y con prefijo “\_”
+  - Usar la declaración try-catch para el manejo de errores.
+  - Uso de expresiones lambda para eventos que no necesiten ser eliminados.
+  - Usar tipo de dato dinámico cuando la variables se declare con un tipo de dato específico del valor asignado.
+- Vue
+  - La propiedad data de un componente debe ser una función.
+  - Las props de los componentes deben ser lo más detalladas posible.
+  - Al usar la directiva v-for, usar siempre el atributo key.
+  - Evitar el uso de v-if con v-for.
+  - Cada componente debe de estar en su archivo.
+  - Los nombres de los componentes y archivos deben estar en PascalCase.
+  - Los componentes deben tener nombres completos.
+  - Los nombres de las props deben estar en camelCase.
+  - Comillas en los valores de los atributos.
+  - Usar la abreviación de directivas.
+- Gherkin
+  - Las especificaciones deben de ser claras y legibles.
+  - No usar terminologías técnicas para una mejor comprensión de los colaboradores.
+  - Usar las palabras claves Given, When, Then, And y But para describir el comportamiento del sistema.
+  - Evitar redundancias de las descripción de los escenarios.
+
+### 5.1.4. Software Deployment Configuration
+
+Para el despliegue de nuestra Landing Page decidimos optar por Vercel debido a que admite integraciones automatizadas desde los repositorios remotos, entre ellos GitHub. Para lograr este objetivo realizamos los siguientes pasos:
+
+1. Tener el repositorio creado en GitHub con el cual deseamos enlazar con Vercel.
+   ![](./assets/software-deploy-conf-1.png)
+
+2. Ingresamos a la plataforma de Vercel, completamos el proceso de autenticación y crearemos un nuevo proyecto.
+   ![](./assets/software-deploy-conf-2.png)
+
+3. Ingresamos nuestra cuenta u organización de donde sacaremos el repositorio y seleccionaremos el principal, LandingPage
+   ![](./assets/software-deploy-conf-3.png)
+
+4. Vercel por defecto detecta que framework está basado tu proyecto. De haber configuraciones avanzadas indicar en el apartado de configuración.
+   ![](./assets/software-deploy-conf-4.png)
+
+5. Una vez terminado el proceso de lanzamiento, nos llevará al dashboard del proyecto.
+   ![](./assets/software-deploy-conf-5.png)
+
+## 5.2. Landing Page, Services & Applications Implementation.
+
+### 5.2.1. Sprint 1
+
+#### 5.2.1.1. Sprint Planning 1
+
+| Sprint #                           | Sprint 1                                                                                                                                                                                                                                                                                                |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                    | **Sprint Planning Background**                                                                                                                                                                                                                                                                          |
+| Date                               | 07 de marzo del 2024                                                                                                                                                                                                                                                                                    |
+| Time                               | 05:00 PM                                                                                                                                                                                                                                                                                                |
+| Location                           | Modalidad remota                                                                                                                                                                                                                                                                                        |
+| Prepared By                        | Los Parkers                                                                                                                                                                                                                                                                                             |
+| Attendees (to planning meeting)    | Todos los miembros de los Parkers                                                                                                                                                                                                                                                                       |
+| Sprint n – 0 Review Summary        | Como primer sprint, no contamos con summaries previos                                                                                                                                                                                                                                                   |
+| Sprint n – 1 Retrospective Summary | En este sprint se planea desarrollar la landing page con el framework Astro, ideado principalmente para desarrollar páginas estáticas. Se conversó sobre el diseño y contenido que debería tener la landing page. Al finalizar, el despliegue será con Vercel estará disponible para cualquier usuario. |
+|                                    | **Sprint Goal & User Stories**                                                                                                                                                                                                                                                                          |
+| Sprint 1 Velocity                  | 18                                                                                                                                                                                                                                                                                                      |
+| Sum of Story Points                | 18                                                                                                                                                                                                                                                                                                      |
+
+#### 5.2.1.2. Sprint Backlog 1
+
+Los tasks que se realizaron en este sprint se encuentran en el Trello del equipo.
+Enlace al Trello: https://trello.com/invite/b/PJW2Ypt3/ATTI687919c190d9ca915743f80211e7fb81CC082BC2/sprint-1
+![Spring Backlog 1](./assets/sprint-1.png)
+
+| Sprint#    | 1                |
+| ---------- | ---------------- |
+| User Story | Work Item / Task |
+
+| Id  | Title               | ID  | Title                                    | Description                                                                   | Estimation (Hours) | Assigned To   | Status (To-do InProcess ToReview Done) |
+| --- | ------------------- | --- | ---------------------------------------- | ----------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| US1 | Barra de Navegación | W1  | Maquetar header                          | Implementar navbar con enlaces a secciones y inicio de sesión a la aplicación | 3h                 | Marcelo Garro | Done                                   |
+| US2 | Sección Hero        | W2  | Implementar sección Hero                 | Maquetar en HTML y CSS la sección Hero                                        | 3h                 | Marcelo Garro | Done                                   |
+| US3 | Sección Product     | W3  | Implementar información del producto     | Maquetar en HTML y CSS de información del producto                            | 2h                 | Marcelo Garro | Done                                   |
+| US3 | Sección Product     | W4  | Implementar los beneficios               | Maquetar en HTML y CSS de beneficios del producto                             | 1h                 | Marcelo Garro | Done                                   |
+| US4 | Sección Reviews     | W5  | Implementar sección Reviews              | Maquetar en HTML y CSS la sección Hero                                        | 1h                 | Marcelo Garro | Done                                   |
+| US4 | Sección Reviews     | W6  | Crear componente Carrusel de testimonios | Crear un carrusel para mostrar los testimonios de 3 items por slide           | 3h                 | Marcelo Garro | Done                                   |
+| US5 | Sección Pricing     | W7  | Implementar sección Pricing              | Maquetar en HTML y CSS la sección Pricing                                     | 1h                 | Marcelo Garro | Done                                   |
+| US6 | Sección About Us    | W8  | Implementar sección About Us             | Maquetar en HTML y CSS la sección About Us                                    | 1h                 | Marcelo Garro | Done                                   |
+
+#### 5.2.1.3. Development Evidence for Sprint Review.
+
+| Repository  | Branch        | Commit Id                                | Commit Message                                       | Commit Message Body | Commited on (Date) |
+| ----------- | ------------- | ---------------------------------------- | ---------------------------------------------------- | ------------------- | ------------------ |
+| LandingPage | feat/navbar   | 5afa2b26712978718924bf866f8198d1e8e48604 | feat #1: maquetar barra de navegacion                |                     | 12/04/2024         |
+| LandingPage | feat/navbar   | f9eab5f89d06d96a171e48ea4fe1e0ac472d1123 | fix #1: agregar redireccionamiento de las secciones  |                     | 13/04/2024         |
+| LandingPage | feat/hero     | b775834d2575478ef56705a1e0a476551fd7fc9c | feat #2: maquetar sección hero                       |                     | 12/04/2024         |
+| LandingPage | feat/product  | 28cfd3b02b69f8c4af82222e281a2cfccd7727a8 | feat #3: maquetar sección product                    |                     | 12/04/2024         |
+| LandingPage | feat/product  | 52558598ca145270a6274c0f2a2f30058d9ee414 | feat #3: maquetar sección features                   |                     | 12/04/2024         |
+| LandingPage | feat/reviews  | bebb40f7e8814e8e51049ffc0416f31b570a3bb6 | feat #4: maquetar sección reviews y crear componente |                     | 13/04/2024         |
+| LandingPage | feat/pricing  | 077f06de9d7dba0bab98714b6b1f889234fc9895 | feat #5: maquetar seccion pricing                    |                     | 13/04/2024         |
+| LandingPage | feat/about-us | 1e5ebb2ddf7883b692327fd680a90d42da8b97a3 | feat #6: maquetar sección sobre nosotros             |                     | 13/04/2024         |
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+En el alcance del sprint 1 se ha desarrollado el landing page como primera instancia, por lo que no se evidencia testeo de servicios o interacciones.
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+Para esta entrega, el producto Landing Page se encuentra en lanzamiento y de acceso abierto para todos los usuarios.
+URL del producto: https://ezpark.vercel.app/
+
+![Mockup header](./assets/execution-evidence.png)
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+En el alcance del sprint 1 se ha desarrollado el landing page como primera instancia, por lo que no se evidencia el uso de servicios webs..
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+A continuación, se presentan los commits realizados en el repositorio del landing page en Github.
+Link del Github: https://github.com/Los-Parkers/LandingPage
+
+| Repository  | Branch | Commit Id                                | Commit Message                                                | Commit Message Body | Commited on (Date) |
+| ----------- | ------ | ---------------------------------------- | ------------------------------------------------------------- | ------------------- | ------------------ |
+| LandingPage | dev    | 5afa2b26712978718924bf866f8198d1e8e48604 | feat #1: maquetar barra de navegacion                         |                     | 12/04/2024         |
+| LandingPage | dev    | f9eab5f89d06d96a171e48ea4fe1e0ac472d1123 | fix #1: agregar redireccionamiento de las secciones           |                     | 13/04/2024         |
+| LandingPage | dev    | b775834d2575478ef56705a1e0a476551fd7fc9c | feat #2: maquetar sección hero                                |                     | 12/04/2024         |
+| LandingPage | dev    | 28cfd3b02b69f8c4af82222e281a2cfccd7727a8 | feat #3: maquetar sección product                             |                     | 12/04/2024         |
+| LandingPage | dev    | 52558598ca145270a6274c0f2a2f30058d9ee414 | feat #3: maquetar sección features                            |                     | 12/04/2024         |
+| LandingPage | dev    | bebb40f7e8814e8e51049ffc0416f31b570a3bb6 | feat #4: maquetar sección reviews y crear componente carrusel |                     | 13/04/2024         |
+| LandingPage | dev    | 077f06de9d7dba0bab98714b6b1f889234fc9895 | feat #5: maquetar seccion pricing                             |                     | 13/04/2024         |
+| LandingPage | dev    | 1e5ebb2ddf7883b692327fd680a90d42da8b97a3 | feat #6: maquetar sección sobre nosotros                      |                     | 13/04/2024         |
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+El equipo desarrolló la landing page por ramas para desarrollar cada user story asignadas de la sprint. Una vez terminado con el desarrollo pasaría por las validaciones para el despliegue de la aplicación. Debido a la disponibilidad de tiempos se delegó la responsabilidad del desarrollo a un integrante con capacidades para realizarlo. A continuación se presenta el insight del equipo
+
+![Insight 1](./assets/insight-1.png)
+![Insight 2](./assets/insight-2.png)
