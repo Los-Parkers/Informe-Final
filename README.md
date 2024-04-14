@@ -549,11 +549,11 @@ En esta sección se presenta el user task matrix, herramienta centrada en los se
 
 User Journey Mapping de Anfitrión
 
-<img src="" alt="Usuario Journey Mapping de Anfitrion" />
+<img width=100% src="./assets/userJourneyMapping2.PNG" alt="Usuario Journey Mapping de Anfitrion" />
 
 User Journey Mapping de Usuario de Parking
 
-<img src="" alt="Usuario Journey Mapping de Parking" />
+<img width=100% src="./assets/userJourneyMapping1.PNG" alt="Usuario Journey Mapping de Parking" />
 
 ### 2.3.4. Empathy Mapping.
 
@@ -561,21 +561,23 @@ En esta sección se presenta el Empathy Mapping, herramienta para crear un perfi
 
 Empathy Mapping de Anfitrión
 
-<img src="" alt="Empathy Mapping de Anfitrion" />
+<img width=100% src="./assets/empathyMapping2.PNG" alt="Empathy Mapping de Anfitrion" />
 
 Empathy Mapping de Usuario de Parking
 
-<img src="" alt="Empathy Mapping de Parking" />
+<img width=100% src="./assets/empathyMapping1.PNG" alt="Empathy Mapping de Parking" />
 
 ### 2.3.5. As-is Scenario Mapping.
 
-En esta sección se presentan los As-is Scenario mapping para el segmento objetivo
+En esta sección se presentan los As-is Scenario mapping para cada segmento objetivo.
 
-<img src="" alt="As-is Scenario Mapping Usuario de parking" />
+As-is Scenario Mapping de Usuario de Parking
 
-<br />
+<img width=100% src="./assets/asisScenarioMapping1.PNG" alt="As-is Scenario Mapping Usuario de parking" />
 
-<img src="" alt="As-is Scenario Mapping Anfitrion" />
+As-is Scenario Mapping de Anfitrión
+
+<img width=100% src="./assets/asisScenarioMapping2.PNG" alt="As-is Scenario Mapping Anfitrion" />
 
 ## 2.4 Ubiquitous Language
 
