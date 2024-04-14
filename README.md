@@ -399,7 +399,7 @@ Segmento objetivo: Usuario de Parking y Anfitrión
 Segmento objetivo: Usuario de Parking y Anfitrión
 Entrevista 1: Juan Carlos Bodoque Bolaños (26 años - San Miguel) - 4 de abril del 2023
 URL del video: (enlace) (Comienzo 00:00:00 - Fin 00:21:10)
-<img src="" alt="Entrevista de Juan Carlos" />
+<img width =100% src="./assets/entrevistas/entrevista1.PNG" alt="Entrevista de Juan Carlos" />
 
 Resumen:
 Después de entrevistar a Juan Carlos Bodoque Bolaños, un abogado de 26 años residente en el distrito de San Miguel, se han obtenido detalles significativos sobre sus necesidades y preferencias en relación con el estacionamiento. Juan Carlos mencionó tener dificultades para encontrar estacionamiento en su centro de labores en el distrito de San Isidro, así como en zonas turísticas como Miraflores. Destacó que los horarios laborales presentan mayores desafíos para encontrar estacionamiento. Expresó interés en utilizar una plataforma de alquiler de espacios de estacionamiento sí ofrece beneficios económicos y afirmó que la utilizaría diariamente durante los días laborales. En términos de seguridad, señaló la importancia de verificar la identidad de los ocupantes de los espacios y la presencia de agentes de seguridad.
@@ -410,7 +410,7 @@ Por otro lado, reveló que tiene dos espacios de estacionamiento disponibles en 
 Segmento objetivo: Usuario de Parking y Anfitrión
 Entrevista 2: Liliana Fu Ye (22 años - Jesús María) - 4 de abril del 2023
 URL del video: (enlace) (Comienzo 00:00:00 - Fin 00:21:10)
-<img src="" alt="Entrevista de Liliana Fu Ye" />
+<img width=100% src="./assets/entrevistas/entrevista2.PNG" alt="Entrevista de Liliana Fu Ye" />
 Resumen:
 Después de entrevistar a Liliana Fu Ye, una estudiante de 22 años de Ingeniería de Software en la UPC y practicante en el banco Interbank, se han recopilado detalles importantes sobre sus hábitos de estacionamiento y sus preferencias en cuanto a la utilización de espacios de estacionamiento. Liliana mencionó que reside en el distrito de Jesús María y utiliza un vehículo prestado por su madre para desplazarse al trabajo y hacer compras los fines de semana en el distrito del Callao. Suele visitar los distritos de San Isidro y el Callao. Identificó las horas laborales y las ocasiones en las que almuerza con amigos en Miraflores como momentos difíciles para encontrar estacionamiento. Expresó su disposición para utilizar un estacionamiento privado y consideró útil una aplicación que muestre estos lugares, ya que actualmente se apoya en GPS que no son precisos para este propósito.
 En cuanto a seguridad, sugirió que los estacionamientos deberían ubicarse en lugares privados o contar con personal vigilante en caso de ser públicos. Reveló que tiene dos espacios de estacionamiento en su hogar, pero solo utiliza uno y estaría dispuesta a alquilar el espacio no utilizado de manera indefinida, ya que su padre se ha mudado a otra ciudad con su vehículo. Propuso que la función de alquilar espacios propios esté integrada en la misma aplicación que ayuda a buscar espacios de otros usuarios para mayor comodidad. En cuanto a la tarifa de alquiler mensual, sugirió un precio aproximado de 300 soles, y consideraría cobrar por horas a partir de 5, aunque requiere una deliberación más detenida sobre esta opción.
@@ -420,7 +420,7 @@ En cuanto a seguridad, sugirió que los estacionamientos deberían ubicarse en l
 Segmento objetivo: Usuario de Parking y Anfitrión
 Entrevista 3: Leonardo Jesús Vargas Navarro (26 años - Ate) - 5 de abril del 2023
 URL del video: https://youtu.be/lYCCdxyKcik (Comienzo 00:00:00 - Fin 00:09:11)
-<img src="" alt="Entrevista de Leonardo Jesús Vargas" />
+<img width=100% src="./assets/entrevistas/entrevista3.PNG" alt="Entrevista de Leonardo Jesús Vargas" />
 Resumen:
 Después de entrevistar a Leonardo Jesús Vargas Navarro, un ingeniero civil de 26 años que trabaja actualmente en la empresa D'site Perú y que reside en el distrito de Ate Vitarte, pudimos informarnos sobre su rutina semanal que tiene para con su vehículo y algunas preferencias que tiene a la hora de usar espacios de estacionamiento. Más adelante, Leonardo nos comenta que es dueño de un Hyundai Sedán y cuenta con un garaje para el mismo en su hogar.
 En cuanto a sus destinos frecuentes, él suele ir con su vehículo hasta el distrito de San Miguel por temas de trabajo, además de pasear de vez en cuando por distritos como San Isidro o La Molina. Luego, nos comentó que es un poco más complicado conseguir espacios de estacionamiento en las mañanas y al mediodía. Por otro lado, nos expresó que le parecía buena la idea de utilizar un estacionamiento privado, especialmente para los días que va a trabajar.
@@ -430,21 +430,21 @@ Sin embargo, identificó algunos aspectos de seguridad que podrían ser útiles 
 
 Segmento objetivo: Usuario de Parking y Anfitrión
 Entrevista 4: Jesus Pedro Casana (San Miguel) - 5 de Abril, 2024
-<img src="" alt="Entrevista de Jesus Pedro Casana" />
+<img width=100% src="./assets/entrevistas/entrevista4.PNG" alt="Entrevista de Jesus Pedro Casana" />
 Terminada la entrevista a Jesus Pedro Casana, el nos comenta que es joven universitario que estudia y trabaja y cuenta con carro propio. Él es consciente que debido a su trabajo le demanda ir a varios distritos de Lima y casi la mayoría del tiempo no consigue un estacionamiento adecuado debido a la gran cantidad de vehículos estacionados que se encuentran por la zona. El también comenta que cuenta con una amplia cochera donde guarda su auto. El entrevistado manifestó su disposición a utilizar estacionamientos privados y reconoció el valor de una aplicación que facilite la visualización de estos lugares. Señaló que actualmente se apoya en sistemas de GPS que no son precisos para encontrar estacionamiento, por lo que considera útil una herramienta que le brinde información específica sobre los espacios disponibles en estacionamientos privados.
 
 ---
 
 Segmento objetivo: Usuario de Parking y Anfitrión
 Entrevista 5: Edu Arturo Antayhua Ticona (San Miguel) - 6 de Abril, 2024
-<img src="./assets/entrevistas/entrevista-edu.png" alt="Entrevista de Edu Arturo Antayhua" />
+<img width=100% src="./assets/entrevistas/entrevista-edu.png" alt="Entrevista de Edu Arturo Antayhua" />
 Se ha entrevistado a Edu Arturo Antayhua Ticona que tiene 21 años y trabaja de bartender. El menciona que usa su vehículo todos los días para ir a trabajar, estudiar y salir con su familia a pasear. Del mismo modo también dice que se le dificulta mucho salir a pasear con su vehículo ya que no encuentra un estacionamiento seguro por las zonas donde él normalmente se moviliza. También menciona que el uso de una aplicación con los servicios que mencionamos le serían de gran ayuda para su día a día..
 
 ---
 
 Segmento objetivo: Usuario de Parking y Anfitrión
 Entrevista 6. Rodrigo Tornero Loayza (Santiago de Surco) - 6 de Abril, 2024
-<img src="./assets/entrevistas/entrevista-rodrigo.png" alt="Entrevista de Rodrigo Tornero Loayza" />
+<img width=100% src="./assets/entrevistas/entrevista-rodrigo.png" alt="Entrevista de Rodrigo Tornero Loayza" />
 Se le ha realizado una entrevista a Rodrigo Tornero Loayza que cuenta con 21 años. El menciona que usó su vehículo de Lunes a Sábado para ir a la universidad y comprar algunas cosas que necesita para su universidad. El menciona también que durante la tarde cuando necesite un estacionamiento no hay debido a la alta demanda. El cree que usar la app que brinda nuestro servicio podría solucionar esos problemas y le ayudará a ahorrar un poco de tiempo. Respecto a los servicios de nuestra app, Rodrigo menciona que él considera viable la opción de alquilar una cochera a una persona si los estacionamiento se encuentran ocupados. Del mismo modo el dice que también sería capaz de alquilar su cochera si en algún momento no llegará a usarlo.
 
 ### 2.2.3. Análisis de entrevistas.
@@ -465,15 +465,17 @@ En esta sección se presentarán los artefactos resultantes del proceso de anál
 
 User Persona del Usuario de Parking
 
-<img src="" alt="Usuario de Parking" />
+<img width=100% src="./assets/userPersona1.PNG" alt="Usuario de Parking" />
 
 User Persona del Usuario de Anfitrión
 
-<img src="" alt="Usuario de Anfitrion" />
+<img width=100% src="./assets/userPersona2.PNG" alt="Usuario de Anfitrion" />
 
 ### 2.3.2. User Task Matrix
 
 En esta sección se presenta el user task matrix, herramienta centrada en los segmentos objetivos que nos permitirá identificar las tareas y objetivos claves de los usuarios
+
+
 
 ### 2.3.3. User Journey Matrix
 
@@ -570,8 +572,6 @@ Impact Mapping: Anfitrión
 ## 3.4. Product Backlog
 
 A continuación se muestra la elaboración del Product Backlog en la herramienta Trello:
-
-<img src="./assets/product-backlog.png" alt="Imagen de Trello con el Product Backlog" />
 
 # Capítulo IV: Product Design
 
