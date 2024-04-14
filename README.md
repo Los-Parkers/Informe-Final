@@ -571,6 +571,8 @@ Impact Mapping: Anfitrión
 
 A continuación se muestra la elaboración del Product Backlog en la herramienta Trello:
 
+<img src="./assets/product-backlog.png" alt="Imagen de Trello con el Product Backlog" />
+
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
