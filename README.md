@@ -422,6 +422,12 @@ To-Be Scenario Mapping: Anfitrión
 
 Redactamos historias de usuarios que nos ayuden a generar funciones del software que estamos desarrollando para los usuarios finales. Las épicas identificadas son: Landing page, autenticación y perfil de usuario, dashboard de usuario, organización empresarial para reclutamientos, organización de proceso de reclutamiento y participación en proceso de reclutamiento.
 
+Debido a la enorme cantidad de User Stories, no mostrar la información completa en este documento. Sin embargo, en documento de Drive estaremos agregando las User Stories.
+
+Link del documento: https://docs.google.com/document/d/1YYZbm5dNd7L1iOadOjZnqK79K6kh5M_rQ3BcS6xOpTs/edit?usp=sharing
+
+![Vista previa de las User Stories](./assets/user-stories-preview.png)
+
 ## 3.3. Impact Mapping
 
 Con el fin de mejorar nuestra comprensión de los grupos a los que nos dirigimos, en esta sección emplearemos la herramienta Impact Map. Esta herramienta nos permite establecer una conexión entre las necesidades de nuestros usuarios y los objetivos de nuestro proyecto mediante la identificación de impactos y entregables. Los impactos nos muestran las acciones que nuestros usuarios deben llevar a cabo para acercarnos a nuestros objetivos, mientras que los entregables nos indican de qué manera podemos apoyarlos para alcanzar dichos objetivos. A continuación, presentamos los mapas de impacto de los usuarios.
