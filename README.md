@@ -824,33 +824,33 @@ Para la construcción de los siguientes diagramas, se hizo uso de la herramienta
 
 ### 4.6.1. Software Architecture Context Diagram
 
-<img src="" alt="Software Architecture Context Diagram" />
+<img width=100% src="./assets/DContext.png" alt="Software Architecture Context Diagram" />
 
 **Elementos del diagrama:**
 
-<img src="" alt="Software Architecture Context Diagram Elements" />
+<img width=100% src="./assets/KContext.png" alt="Software Architecture Context Diagram Elements" />
 
 ### 4.6.2. Software Architecture Container Diagrams
 
-<img src="" alt="Software Architecture Container Diagram" />
+<img width=100% src="./assets/DContainers.png" alt="Software Architecture Container Diagram" />
 
 **Elementos del diagrama:**
 
-<img src="" alt="Software Architecture Container Diagram Elements" />
+<img width=100% src="./assets/KContainers.png" alt="Software Architecture Container Diagram Elements" />
 
 ### 4.6.3. Software Architecture Components Diagrams
 
-<img src="" alt="Software Architecture Components Diagram" />
+<img width=100% src="./assets/DComponents.png" alt="Software Architecture Components Diagram" />
 
 **Elementos del diagrama:**
 
-<img src="" alt="Software Architecture Components Diagram Elements" />
+<img width=100% src="./assets/KComponents.png" alt="Software Architecture Components Diagram Elements" />
 
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams
 
-<img src="" alt="Diagrama de clases" />
+<img width=100% src="./assets/DClass.png" alt="Diagrama de clases" />
 
 ### 4.7.2. Class Dictionary
 
@@ -960,7 +960,7 @@ Para la construcción de los siguientes diagramas, se hizo uso de la herramienta
 
 ### 4.8.1. Database Diagram
 
-<img src="" alt="Diagrama de base de datos" />
+<img width=100% src="./assets/DBaseDeDatos.png" alt="Diagrama de base de datos" />
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
