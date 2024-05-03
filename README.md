@@ -1437,7 +1437,7 @@ El equipo desarrolló la landing page por ramas para desarrollar cada user story
 
 #### 5.2.2.1. Sprint Planning 2
 
-| Sprint #                           | Sprint 1                                                                                                                                                                                           |
+| Sprint #                           | Sprint 2                                                                                                                                                                                           |
 | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |                                    | **Sprint Planning Background**                                                                                                                                                                     |
 | Date                               | 19 de abril del 2024                                                                                                                                                                               |
