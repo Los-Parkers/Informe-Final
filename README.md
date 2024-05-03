@@ -1455,6 +1455,8 @@ El equipo desarrolló la landing page por ramas para desarrollar cada user story
 
 En esta entrega nos encontramos con ciertas limitaciones para llevar a cabos las historias de usuarios como la falta de conocimientos y experiencia ante la resolución de las tareas. Cabe recalcar que las tareas que se encuentren en estado cancelado o en progreso se tomaran en cuenta para el siguiente sprint backlog del equipo.
 
+![](./assets/kanban-sprint-2.png)
+
 | Sprint#    | 2                |
 | ---------- | ---------------- |
 | User Story | Work Item / Task |
@@ -1505,14 +1507,14 @@ En esta entrega nos encontramos con ciertas limitaciones para llevar a cabos las
 | Web Applications | feat/findParking   | fccd7df0280c988c901d664da721f56ea0eec432 | feat (TA-31): integrate Google autocomplete with Find Parking View       |                      | 2/05/2024          |
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
 En el alcance del sprint 2 se ha desarrollado el landing page en Vue y la aplicación web, priorizando la funcionalidad y respuesta ante los supuestos consumos de servicios. Ante la falta de conocimiento total del framework Vue, priorizamos la funcionalidad ante los testings de desarrollo.
 
-
 #### 5.2.2.5 Execution Evidence for Sprint Review
+
 Para esta entrega, el producto Landing Page y la aplicación web se encuentran en lanzamiento y de acceso abierto para todos los ususarios: https://ezpark-b41de.web.app/
 
 ![Landing Page en FirebaseHosting](./assets/app-web-landing.png)
-
 
 ![AppWeb Frontend en FirebaseHosting](./assets/app-web-login.png)
 
