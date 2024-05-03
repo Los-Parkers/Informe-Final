@@ -1507,6 +1507,15 @@ En esta entrega nos encontramos con ciertas limitaciones para llevar a cabos las
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 En el alcance del sprint 2 se ha desarrollado el landing page en Vue y la aplicación web, priorizando la funcionalidad y respuesta ante los supuestos consumos de servicios. Ante la falta de conocimiento total del framework Vue, priorizamos la funcionalidad ante los testings de desarrollo.
 
+
+#### 5.2.2.5 Execution Evidence for Sprint Review
+Para esta entrega, el producto Landing Page y la aplicación web se encuentran en lanzamiento y de acceso abierto para todos los ususarios: https://ezpark-b41de.web.app/
+
+![Landing Page en FirebaseHosting](./assets/app-web-landing.png)
+
+
+![AppWeb Frontend en FirebaseHosting](./assets/app-web-login.png)
+
 # Conclusiones
 
 - La aplicación EzPark tiene el potencial de abordar un problema real y común en entornos urbanos, que es la escasez de espacios de estacionamiento y la búsqueda ineficiente de lugares para estacionar. La propuesta de la aplicación para permitir a los usuarios buscar, reservar y pagar por espacios de estacionamiento de manera eficiente, así como permitir a los propietarios de espacios registrarse y alquilar a través de la plataforma, puede tener un impacto significativo en la experiencia de los conductores y en la congestión del tráfico en las áreas urbanas.
