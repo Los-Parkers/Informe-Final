@@ -1516,6 +1516,29 @@ Para esta entrega, el producto Landing Page y la aplicación web se encuentran e
 
 ![AppWeb Frontend en FirebaseHosting](./assets/app-web-login.png)
 
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+Aquí se muestra la documentación de los servicios empleados. En esta ocasión, hemos utilizado servicios simulados (fake services) para desarrollar la interfaz frontal, simulando así los servicios finales de nuestro producto.
+
+Servicio de users:
+![Parking Service Image](./assets/users-service.png)
+
+Servicio de “Parkings”
+![Parking Service Image](./assets/parkings-service.png)
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+Para el segundo sprint, optamos por utilizar la plataforma Firebase para desplegar el frontend. En primer lugar, instalamos Firebase Tools y luego procedimos a iniciar sesión con Firebase login. Posteriormente, ejecutamos el comando "npm firebase init" en la terminal y seleccionamos el servicio de hosting. Una vez seleccionado, configuramos los parámetros necesarios, como el directorio de compilación, las rutas y el proyecto asociado. Finalmente, empleamos el comando "firebase deploy --only hosting" para implementar nuestra aplicación exclusivamente para el servicio de hosting.
+
+![Frontend firebase deployment Image](./assets/frontend-firebase-deployment.png)
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+Nuestro método de trabajo se basó en implementar las funcionalidades asociadas a las tareas asignadas para este período. En este sprint, nos enfocamos en integrar las pantallas de inicio de sesión de usuarios, el panel principal y ciertas vistas esenciales. Adjuntamos una imagen que muestra la contribución de todos los miembros del equipo con sus commits durante este proceso de desarrollo.
+
+![Sprint 2 Insights 1 Image](./assets/sprint-2-insight-1.png)
+
+Asimismo, se presenta el resumen de gitflow:
+
+![Sprint 2 Insights 1 Image](./assets/sprint-2-insight-2.png)
+
 # Conclusiones
 
 - La aplicación EzPark tiene el potencial de abordar un problema real y común en entornos urbanos, que es la escasez de espacios de estacionamiento y la búsqueda ineficiente de lugares para estacionar. La propuesta de la aplicación para permitir a los usuarios buscar, reservar y pagar por espacios de estacionamiento de manera eficiente, así como permitir a los propietarios de espacios registrarse y alquilar a través de la plataforma, puede tener un impacto significativo en la experiencia de los conductores y en la congestión del tráfico en las áreas urbanas.
