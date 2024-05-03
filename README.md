@@ -940,6 +940,10 @@ El usuario al encontrarse en la sección de Rent your parking, podrá visualizar
 
 ### 4.4.3. Web Applications Mock-ups
 
+| Figma Web Applications Mock-ups:   | Figma Mobile Applications Mock-ups:                |
+| ---------- | ---------------- |
+| https://www.figma.com/file/jpHULfZ1ozRiihWhbgP1NZ/Web-ApPlication-Mock-Ups?type=design&node-id=0%3A1&mode=design&t=FqIctUgttGI6bP5t-1 | https://www.figma.com/file/vxCvtsiWx0sAyu1ZebxlrH/Mobile-Application-Mock-Ups?type=design&node-id=0%3A1&mode=design&t=c8TkJ4UIGYz1uz1B-1 |
+
 <p align="center">Registro de cuentas</p>
 
 ![Registro de cuentas](./assets/WepApplication/mockups/mockup-registro.png)
@@ -1025,9 +1029,9 @@ El usuario al encontrarse en la sección de Rent your parking, podrá visualizar
 
 En esta sección se compartirán los prototipos relacionados a la aplicación web, donde se presentan el alcance de los user goals en ambos segmentos objetivos.
 
-Links Figma Web Applications Prototype:
-
-https://www.figma.com/file/jpHULfZ1ozRiihWhbgP1NZ/Web-ApPlication-Mock-Ups?type=design&node-id=0%3A1&mode=design&t=FqIctUgttGI6bP5t-1
+| Figma Web Applications Prototype:   | Figma Mobile Applications Prototype:                |
+| ---------- | ---------------- |
+| https://www.figma.com/file/jpHULfZ1ozRiihWhbgP1NZ/Web-ApPlication-Mock-Ups?type=design&node-id=0%3A1&mode=design&t=FqIctUgttGI6bP5t-1 | https://www.figma.com/file/vxCvtsiWx0sAyu1ZebxlrH/Mobile-Application-Mock-Ups?type=design&node-id=0%3A1&mode=design&t=c8TkJ4UIGYz1uz1B-1 |
 
 ## 4.6. Domain-Driven Software Architecture
 
