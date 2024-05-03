@@ -649,7 +649,6 @@ Link del documento: https://docs.google.com/document/d/1YYZbm5dNd7L1iOadOjZnqK79
 ![Vista previa de las User Stories](./assets/user_stories/11.png)
 ![Vista previa de las User Stories](./assets/user_stories/12.png)
 ![Vista previa de las User Stories](./assets/user_stories/13.png)
-![Vista previa de las User Stories](./assets/user_stories/14.png)
 ![Vista previa de las User Stories](./assets/user_stories/15.png)
 ![Vista previa de las User Stories](./assets/user_stories/16.png)
 ![Vista previa de las User Stories](./assets/user_stories/17.png)
