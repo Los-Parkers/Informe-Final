@@ -1440,7 +1440,7 @@ El equipo desarrolló la landing page por ramas para desarrollar cada user story
 | Sprint #                           | Sprint 2                                                                                                                                                                                           |
 | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |                                    | **Sprint Planning Background**                                                                                                                                                                     |
-| Date                               | 19 de abril del 2024                                                                                                                                                                               |
+| Date                               | 2 de mayo del 2024                                                                                                                                                                               |
 | Time                               | 08:00 PM                                                                                                                                                                                           |
 | Location                           | Modalidad remota                                                                                                                                                                                   |
 | Prepared By                        | Los Parkers                                                                                                                                                                                        |
@@ -1455,7 +1455,7 @@ El equipo desarrolló la landing page por ramas para desarrollar cada user story
 
 En esta entrega nos encontramos con ciertas limitaciones para llevar a cabos las historias de usuarios como la falta de conocimientos y experiencia ante la resolución de las tareas. Cabe recalcar que las tareas que se encuentren en estado cancelado o en progreso se tomaran en cuenta para el siguiente sprint backlog del equipo.
 
-![](./assets/kanban-sprint-2.png)
+![kanban sprint 2](./assets/kanban-sprint-2.png)
 
 | Sprint#    | 2                |
 | ---------- | ---------------- |
