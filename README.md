@@ -636,7 +636,42 @@ Debido a la enorme cantidad de User Stories, no mostrar la información completa
 
 Link del documento: https://docs.google.com/document/d/1YYZbm5dNd7L1iOadOjZnqK79K6kh5M_rQ3BcS6xOpTs/edit?usp=sharing
 
-![Vista previa de las User Stories](./assets/user-stories-preview.png)
+![Vista previa de las User Stories](./assets/user_stories/1.png)
+![Vista previa de las User Stories](./assets/user_stories/2.png)
+![Vista previa de las User Stories](./assets/user_stories/3.png)
+![Vista previa de las User Stories](./assets/user_stories/4.png)
+![Vista previa de las User Stories](./assets/user_stories/5.png)
+![Vista previa de las User Stories](./assets/user_stories/6.png)
+![Vista previa de las User Stories](./assets/user_stories/7.png)
+![Vista previa de las User Stories](./assets/user_stories/8.png)
+![Vista previa de las User Stories](./assets/user_stories/9.png)
+![Vista previa de las User Stories](./assets/user_stories/10.png)
+![Vista previa de las User Stories](./assets/user_stories/11.png)
+![Vista previa de las User Stories](./assets/user_stories/12.png)
+![Vista previa de las User Stories](./assets/user_stories/13.png)
+![Vista previa de las User Stories](./assets/user_stories/15.png)
+![Vista previa de las User Stories](./assets/user_stories/16.png)
+![Vista previa de las User Stories](./assets/user_stories/17.png)
+![Vista previa de las User Stories](./assets/user_stories/18.png)
+![Vista previa de las User Stories](./assets/user_stories/19.png)
+![Vista previa de las User Stories](./assets/user_stories/20.png)
+![Vista previa de las User Stories](./assets/user_stories/21.png)
+![Vista previa de las User Stories](./assets/user_stories/22.png)
+![Vista previa de las User Stories](./assets/user_stories/23.png)
+![Vista previa de las User Stories](./assets/user_stories/24.png)
+![Vista previa de las User Stories](./assets/user_stories/25.png)
+![Vista previa de las User Stories](./assets/user_stories/26.png)
+![Vista previa de las User Stories](./assets/user_stories/27.png)
+![Vista previa de las User Stories](./assets/user_stories/28.png)
+![Vista previa de las User Stories](./assets/user_stories/29.png)
+![Vista previa de las User Stories](./assets/user_stories/30.png)
+![Vista previa de las User Stories](./assets/user_stories/31.png)
+![Vista previa de las User Stories](./assets/user_stories/32.png)
+![Vista previa de las User Stories](./assets/user_stories/33.png)
+![Vista previa de las User Stories](./assets/user_stories/34.png)
+![Vista previa de las User Stories](./assets/user_stories/35.png)
+![Vista previa de las User Stories](./assets/user_stories/36.png)
+![Vista previa de las User Stories](./assets/user_stories/37.png)
 
 ## 3.3. Impact Mapping
 
@@ -656,7 +691,16 @@ A continuación se muestra la elaboración del Product Backlog en la herramienta
 
 Link del documento: https://docs.google.com/document/d/1YYZbm5dNd7L1iOadOjZnqK79K6kh5M_rQ3BcS6xOpTs/edit?usp=sharing
 
-![Vista previa del Product Backlog](./assets/product-backlog-preview.png)
+![Vista previa del Product Backlog](./assets/product_backlog/pb-1.png)
+![Vista previa del Product Backlog](./assets/product_backlog/pb-2.png)
+![Vista previa del Product Backlog](./assets/product_backlog/pb-3.png)
+![Vista previa del Product Backlog](./assets/product_backlog/pb-4.png)
+![Vista previa del Product Backlog](./assets/product_backlog/pb-5.png)
+![Vista previa del Product Backlog](./assets/product_backlog/pb-6.png)
+![Vista previa del Product Backlog](./assets/product_backlog/pb-7.png)
+![Vista previa del Product Backlog](./assets/product_backlog/pb-8.png)
+![Vista previa del Product Backlog](./assets/product_backlog/pb-9.png)
+![Vista previa del Product Backlog](./assets/product_backlog/pb-10.png)
 
 # Capítulo IV: Product Design
 
@@ -896,6 +940,10 @@ El usuario al encontrarse en la sección de Rent your parking, podrá visualizar
 
 ### 4.4.3. Web Applications Mock-ups
 
+| Figma Web Applications Mock-ups:   | Figma Mobile Applications Mock-ups:                |
+| ---------- | ---------------- |
+| https://www.figma.com/file/jpHULfZ1ozRiihWhbgP1NZ/Web-ApPlication-Mock-Ups?type=design&node-id=0%3A1&mode=design&t=FqIctUgttGI6bP5t-1 | https://www.figma.com/file/vxCvtsiWx0sAyu1ZebxlrH/Mobile-Application-Mock-Ups?type=design&node-id=0%3A1&mode=design&t=c8TkJ4UIGYz1uz1B-1 |
+
 <p align="center">Registro de cuentas</p>
 
 ![Registro de cuentas](./assets/WepApplication/mockups/mockup-registro.png)
@@ -981,9 +1029,9 @@ El usuario al encontrarse en la sección de Rent your parking, podrá visualizar
 
 En esta sección se compartirán los prototipos relacionados a la aplicación web, donde se presentan el alcance de los user goals en ambos segmentos objetivos.
 
-Links Figma Web Applications Prototype:
-
-https://www.figma.com/file/jpHULfZ1ozRiihWhbgP1NZ/Web-ApPlication-Mock-Ups?type=design&node-id=0%3A1&mode=design&t=FqIctUgttGI6bP5t-1
+| Figma Web Applications Prototype:   | Figma Mobile Applications Prototype:                |
+| ---------- | ---------------- |
+| https://www.figma.com/file/jpHULfZ1ozRiihWhbgP1NZ/Web-ApPlication-Mock-Ups?type=design&node-id=0%3A1&mode=design&t=FqIctUgttGI6bP5t-1 | https://www.figma.com/file/vxCvtsiWx0sAyu1ZebxlrH/Mobile-Application-Mock-Ups?type=design&node-id=0%3A1&mode=design&t=c8TkJ4UIGYz1uz1B-1 |
 
 ## 4.6. Domain-Driven Software Architecture
 
