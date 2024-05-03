@@ -940,8 +940,8 @@ El usuario al encontrarse en la sección de Rent your parking, podrá visualizar
 
 ### 4.4.3. Web Applications Mock-ups
 
-| Figma Web Applications Mock-ups:   | Figma Mobile Applications Mock-ups:                |
-| ---------- | ---------------- |
+| Figma Web Applications Mock-ups:                                                                                                      | Figma Mobile Applications Mock-ups:                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | https://www.figma.com/file/jpHULfZ1ozRiihWhbgP1NZ/Web-ApPlication-Mock-Ups?type=design&node-id=0%3A1&mode=design&t=FqIctUgttGI6bP5t-1 | https://www.figma.com/file/vxCvtsiWx0sAyu1ZebxlrH/Mobile-Application-Mock-Ups?type=design&node-id=0%3A1&mode=design&t=c8TkJ4UIGYz1uz1B-1 |
 
 <p align="center">Registro de cuentas</p>
@@ -1029,8 +1029,8 @@ El usuario al encontrarse en la sección de Rent your parking, podrá visualizar
 
 En esta sección se compartirán los prototipos relacionados a la aplicación web, donde se presentan el alcance de los user goals en ambos segmentos objetivos.
 
-| Figma Web Applications Prototype:   | Figma Mobile Applications Prototype:                |
-| ---------- | ---------------- |
+| Figma Web Applications Prototype:                                                                                                     | Figma Mobile Applications Prototype:                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | https://www.figma.com/file/jpHULfZ1ozRiihWhbgP1NZ/Web-ApPlication-Mock-Ups?type=design&node-id=0%3A1&mode=design&t=FqIctUgttGI6bP5t-1 | https://www.figma.com/file/vxCvtsiWx0sAyu1ZebxlrH/Mobile-Application-Mock-Ups?type=design&node-id=0%3A1&mode=design&t=c8TkJ4UIGYz1uz1B-1 |
 
 ## 4.6. Domain-Driven Software Architecture
@@ -1481,6 +1481,31 @@ En esta entrega nos encontramos con ciertas limitaciones para llevar a cabos las
 | US-12 | Ingresar dirección específica                    | TA-33   | Desarrollar navegación por dirección especifica | En base a las coordenadas del input de autocompletado.                                                     | 4                  | Marcelo Garro     | Done                                                   |
 | US-14 | Navegar por el mapa de Google                    | TA-30   | Integrar mapa de Google Map                     | Usar el provedor de api google maps para mostrar las ubicaciones de los garages.                           | 4                  | Marcelo Garro     | Done                                                   |
 | US-14 | Navegar por el mapa de Google                    | TA-32   | Mostrar garajes en mapa                         | Crear un componente mapa y mostrar las ubicaciones datos del servidor como marcadores.                     | 3                  | Marcelo Garro     | Done                                                   |
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+| Repository       | Branch             | Commit Id                                | Commit Message                                                           | Commit Messsage Body | Commited on (Date) |
+| ---------------- | ------------------ | ---------------------------------------- | ------------------------------------------------------------------------ | -------------------- | ------------------ |
+| Web Applications | feat/maq-signin    | 6f6ac19c418ea7342b4b4dbc84cbf7abbb8bcbeb | feat(maq-signin): added signin page an component                         |                      | 24/04/2024         |
+| Web Applications | feat/maq-signin    | 667d574343e8392036278e5ee66df7d3023fd8dd | feat(maq-signin): added signin route                                     |                      | 25/04/2024         |
+| Web Applications | feat/maq-signup    | 667d574343e8392036278e5ee66df7d3023fd8dd | feat(maq-signup): added signup page and component                        |                      | 24/04/2024         |
+| Web Applications | feat/maq-sidebar   | 898cc8b51bc00b0c789f9938c801aa9080effcf8 | feat(maq-sidebar): added sidebar component                               |                      | 24/04/2024         |
+| Web Applications | feat/landingPage   | 79dbfc2bba4c7245aad9a669fbac51f6118d2776 | feat (TA-20): create desktop layout for header landing page              |                      | 2/05/2024          |
+| Web Applications | feat/landingPage   | a627af7fef85966efa0a5e4b06896ea559ff63d6 | feat (TA-21): create layout for hero section in landing page             |                      | 2/05/2024          |
+| Web Applications | feat/landingPage   | 881b70f3aed2be13482a124db92cb1b5ff8d00b5 | feat (TA-22): create desktop layout for features section                 |                      | 2/05/2024          |
+| Web Applications | feat/landingPage   | 146ce3bfc46d4da861b322094914f329e9e287f1 | feat (TA-22): create desktop layout for product section in landing page  |                      | 2/05/2024          |
+| Web Applications | feat/landingPage   | 4181585381db00494dc3ad8ce757687ee5587206 | feat (TA-23): create desktop layout for reviews secction in landing page |                      | 2/05/2024          |
+| Web Applications | feat/landingPage   | 32ea22f2e90aadb193b8c235f0a1a414ce019793 | feat (TA-24): create desktop layout pricing section in landing page      |                      | 2/05/2024          |
+| Web Applications | feat/landingPage   | 4fa8b481bff7e19e5fd2af950523c80c6b76a119 | feat (TA-25): create desktop layout for about us section in landing page |                      | 2/05/2024          |
+| Web Applications | feat/landingPage   | 131b18bfadb1ad8856b841f27bdd88697120d803 | feat (TA-26): create footer component for landing page                   |                      | 2/05/2024          |
+| Web Applications | feat/parkingDetail | 63814481ba193f406575e94fe0db2623c6761acc | feat (TA-27): create layout for parking detail view                      |                      | 2/05/2024          |
+| Web Applications | feat/findParking   | dca8b3b5f0d4332d161e5e39ca395a9d5c397b7e | feat (TA-10): create layout for find parking view                        |                      | 2/05/2024          |
+| Web Applications | feat/findParking   | 7369aa17df60893de2cef0b0c483b9a02ba7114d | feat (TA-30): integrate google map api                                   |                      | 2/05/2024          |
+| Web Applications | feat/findParking   | 4290ef2eafd4bd4c305ea299b0b8caca2a725212 | feat (TA-30): integrate google map with find your parking page           |                      | 2/05/2024          |
+| Web Applications | feat/findParking   | fccd7df0280c988c901d664da721f56ea0eec432 | feat (TA-31): integrate Google autocomplete with Find Parking View       |                      | 2/05/2024          |
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+En el alcance del sprint 2 se ha desarrollado el landing page en Vue y la aplicación web, priorizando la funcionalidad y respuesta ante los supuestos consumos de servicios. Ante la falta de conocimiento total del framework Vue, priorizamos la funcionalidad ante los testings de desarrollo.
 
 # Conclusiones
 
