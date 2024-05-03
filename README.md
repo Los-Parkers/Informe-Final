@@ -691,7 +691,16 @@ A continuación se muestra la elaboración del Product Backlog en la herramienta
 
 Link del documento: https://docs.google.com/document/d/1YYZbm5dNd7L1iOadOjZnqK79K6kh5M_rQ3BcS6xOpTs/edit?usp=sharing
 
-![Vista previa del Product Backlog](./assets/product-backlog-preview.png)
+![Vista previa del Product Backlog](./assets/product_backlog/pb-1.png)
+![Vista previa del Product Backlog](./assets/product_backlog/pb-2.png)
+![Vista previa del Product Backlog](./assets/product_backlog/pb-3.png)
+![Vista previa del Product Backlog](./assets/product_backlog/pb-4.png)
+![Vista previa del Product Backlog](./assets/product_backlog/pb-5.png)
+![Vista previa del Product Backlog](./assets/product_backlog/pb-6.png)
+![Vista previa del Product Backlog](./assets/product_backlog/pb-7.png)
+![Vista previa del Product Backlog](./assets/product_backlog/pb-8.png)
+![Vista previa del Product Backlog](./assets/product_backlog/pb-9.png)
+![Vista previa del Product Backlog](./assets/product_backlog/pb-10.png)
 
 # Capítulo IV: Product Design
 
