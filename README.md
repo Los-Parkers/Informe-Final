@@ -1541,6 +1541,87 @@ Asimismo, se presenta el resumen de gitflow:
 
 ![Sprint 2 Insights 1 Image](./assets/sprint-2-insight-2.png)
 
+## 5.3. Validation Interviews
+Después de avanzar en el desarrollo de la Landing page, la aplicación front-end y la API RESTful del producto EzPark, llevamos a cabo entrevistas de validación. Estas entrevistas permitieron a nuestros usuarios de los segmentos objetivo obtener una primera impresión del software.
+
+### 5.3.1. Diseño de entrevistas
+
+Segmento objetivo: Usuario de Parking y Anfitrión
+
+1. ¿Cuál es su nombre completo? ¿Qué edad tiene? ¿En qué distrito vive actualmente?
+1. ¿Qué opinas del diseño del Landing page? ¿Le incentiva a entrar a la aplicación y registrarse?
+1. ¿Considera que la aplicación dispone de una interfaz fácil e intuitiva de utilizar? En caso afirmativo, ¿qué funcionalidades le agradaron más? En caso negativo, ¿qué funcionalidad cree que falta o sobra para aumentar su interés en usarla? 
+1. ¿Qué tipo de dispositivo (Smartphone, Tablet, Laptop, etc.) utilizó para probar la página de destino y la aplicación web?
+1. ¿Cuál fue el navegador que utilizó para visualizar el contenido en esta ocasión?
+1. ¿Hubo algún aspecto visual, como la disposición de los elementos, que no le agradó?
+
+
+### 5.3.2. Registro de entrevistas.
+
+
+### 5.3.3. Evaluaciones según heurísticas.
+UX Heuristics & Principles Evaluation
+Usability – Inclusive Design – Information Architecture
+CARRERA: Ingeniería de Software
+CURSO: Aplicaciones Web
+SECCIÓN: SW55
+PROFESORES: Todos
+AUDITOR: Los Parkers
+CLIENTE(S) : Nombre de las personas que participan en la sesión
+SITE o APP A EVALUAR: EzPark
+
+TAREAS A EVALUAR:
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1.	Diseño de la Landing Page
+1.	Funcionalidad de la Landing Page
+1.	Diseño del Frontend
+1.	Funcionalidad de la page Sign up
+1.	Funcionalidad de la page Login
+1.	Funcionalidad de la page Forgot password
+1.	Funcionalidad de la page Find your park
+1.	Funcionalidad de la page Rent your park
+1.	Funcionalidad de la page Parking detail
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1.	Funcionalidad de la page Your garages
+1.	Funcionalidad de la page History
+1.	Funcionalidad de la page Edit Profile
+1.	Funcionalidad de la page Reviews
+1.	Funcionalidad de la page Rent your park
+1.	Funcionalidad del Backend
+
+ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel                          | Descripción                                                                                                                                                                                           |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                 1                   | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                                                                                                                                                                     |
+| 2                               | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.                                                                                                                                                                               |
+| 3                               | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                                                                                                                                                                           |
+| 4                           | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                                                                                                                                                                                   |
+
+TABLA RESUMEN:
+
+| #    | Problema                                            | Escala de severidad | Heurística/Principio violada(o)                                           |
+| ----- | ------------------------------------------------ | ------- | ----------------------------------------------- |
+| 1 | Problema 1                              | 1   | Heurística 1              |
+| 2 | Problema 2                              | 1   | Heurística 2              |
+| 3 | Problema 3                              | 1   | Heurística 3              |
+
+DESCRIPCIÓN DE PROBLEMAS:
+
+PROBLEMA #1: 
+Severidad: 
+Heurística violada: 
+Problema:
+Al momento de.
+(captura de pantalla)
+Recomendación:
+Lo más práctica es que.
+
+
 # Conclusiones
 
 - La aplicación EzPark tiene el potencial de abordar un problema real y común en entornos urbanos, que es la escasez de espacios de estacionamiento y la búsqueda ineficiente de lugares para estacionar. La propuesta de la aplicación para permitir a los usuarios buscar, reservar y pagar por espacios de estacionamiento de manera eficiente, así como permitir a los propietarios de espacios registrarse y alquilar a través de la plataforma, puede tener un impacto significativo en la experiencia de los conductores y en la congestión del tráfico en las áreas urbanas.
