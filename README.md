@@ -1575,7 +1575,9 @@ Asimismo, se presenta el resumen de gitflow:
 
 
 
-#### 5.2.3.8. Sprint Planning 3
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
 
 ## 5.3. Validation Interviews
 Después de avanzar en el desarrollo de la Landing page, la aplicación front-end y la API RESTful del producto EzPark, llevamos a cabo entrevistas de validación. Estas entrevistas permitieron a nuestros usuarios de los segmentos objetivo obtener una primera impresión del software.
@@ -1616,6 +1618,7 @@ Segmento objetivo: Usuario de Parking y Anfitrión
 **SITE o APP A EVALUAR:** EzPark
 
 **TAREAS A EVALUAR:**
+
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
 1.	Diseño de la Landing Page
@@ -1637,6 +1640,7 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 1.	Funcionalidad del Backend
 
 **ESCALA DE SEVERIDAD:**
+
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 | Nivel                          | Descripción                                                                                                                                                                                           |
