@@ -1545,6 +1545,38 @@ Asimismo, se presenta el resumen de gitflow:
 
 ![Sprint 2 Insights 1 Image](./assets/sprint-2-insight-2.png)
 
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+
+
+#### 5.2.3.2. Sprint Backlog 3
+
+
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+
+
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+
+
+#### 5.2.3.8. Sprint Planning 3
+
 ## 5.3. Validation Interviews
 Después de avanzar en el desarrollo de la Landing page, la aplicación front-end y la API RESTful del producto EzPark, llevamos a cabo entrevistas de validación. Estas entrevistas permitieron a nuestros usuarios de los segmentos objetivo obtener una primera impresión del software.
 
@@ -1564,18 +1596,26 @@ Segmento objetivo: Usuario de Parking y Anfitrión
 
 
 ### 5.3.3. Evaluaciones según heurísticas.
-UX Heuristics & Principles Evaluation
-Usability – Inclusive Design – Information Architecture
-CARRERA: Ingeniería de Software
-CURSO: Aplicaciones Web
-SECCIÓN: SW55
-PROFESORES: Todos
-AUDITOR: Los Parkers
-CLIENTE(S) : Nombre de las personas que participan en la sesión
-SITE o APP A EVALUAR: EzPark
+<p align="center">UX Heuristics & Principles Evaluation
 
-TAREAS A EVALUAR:
+<p align="center"> Usability – Inclusive Design – Information Architecture
 
+**CARRERA:** Ingeniería de Software
+
+**CURSO:** Aplicaciones Web
+
+**SECCIÓN:** SW55
+
+**PROFESORES:** Todos
+
+**AUDITOR:** Los Parkers
+
+**CLIENTE(S):** Nombre de las personas que participan en la sesión
+
+----
+**SITE o APP A EVALUAR:** EzPark
+
+**TAREAS A EVALUAR:**
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
 1.	Diseño de la Landing Page
@@ -1596,7 +1636,7 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 1.	Funcionalidad de la page Rent your park
 1.	Funcionalidad del Backend
 
-ESCALA DE SEVERIDAD:
+**ESCALA DE SEVERIDAD:**
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 | Nivel                          | Descripción                                                                                                                                                                                           |
@@ -1606,7 +1646,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 | 3                               | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                                                                                                                                                                           |
 | 4                           | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                                                                                                                                                                                   |
 
-TABLA RESUMEN:
+**TABLA RESUMEN:**
 
 | #    | Problema                                            | Escala de severidad | Heurística/Principio violada(o)                                           |
 | ----- | ------------------------------------------------ | ------- | ----------------------------------------------- |
@@ -1614,15 +1654,22 @@ TABLA RESUMEN:
 | 2 | Problema 2                              | 1   | Heurística 2              |
 | 3 | Problema 3                              | 1   | Heurística 3              |
 
-DESCRIPCIÓN DE PROBLEMAS:
+**DESCRIPCIÓN DE PROBLEMAS:**
 
-PROBLEMA #1: 
+PROBLEMA #1:
+
 Severidad: 
+
 Heurística violada: 
+
 Problema:
+
 Al momento de.
+
 (captura de pantalla)
+
 Recomendación:
+
 Lo más práctica es que.
 
 
