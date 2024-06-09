@@ -1564,6 +1564,9 @@ Asimismo, se presenta el resumen de gitflow:
 
 #### 5.2.3.2. Sprint Backlog 3
 
+Enlace al Trello: https://trello.com/invite/b/PXrl8o9R/ATTI69e32399ab53480e5494c18933207a1b8AF656FC/sprint-3
+![Spring Backlog 1](./assets/sprint-3.png)
+
 | Sprint#    | 3                |
 | ---------- | ---------------- |
 | User Story | Work Item / Task |
@@ -1597,9 +1600,14 @@ En el alcance del sprint 3 aun no se aprendio sobre el despliegue del backend, p
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+<<<<<<< HEAD
 Nuestro método de trabajo se basó en implementar las funcionalidades asociadas a las tareas asignadas para este período. En este sprint, nos enfocamos en implementar nuestros principales bounded context del backend (User Management, Parking Management y Reservation Management).
 
 ![Sprint 4 Insights 1 Image](./assets/sprint-3-insight-1.png)
+=======
+![Insight Commits](./assets/sprint-2-insight-1.png)
+![Insight Network](./assets/sprint-2-insight-2.png)
+>>>>>>> f08083051308ab28b8f4d5ca9e967848e4ee0ebb
 
 ## 5.3. Validation Interviews
 
@@ -1666,23 +1674,23 @@ URL del video: [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u
 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-1.	Diseño de la Landing Page
-1.	Funcionalidad de la Landing Page
-1.	Diseño del Frontend
-1.	Funcionalidad de la page Sign up
-1.	Funcionalidad de la page Login
-1.	Funcionalidad de la page Forgot password
-1.	Funcionalidad de la page Find your park
-1.	Funcionalidad de la page Rent your park
-1.	Funcionalidad de la page Parking detail
-1.	Funcionalidad de la page History
-1.	Funcionalidad de la page Edit Profile
+1. Diseño de la Landing Page
+1. Funcionalidad de la Landing Page
+1. Diseño del Frontend
+1. Funcionalidad de la page Sign up
+1. Funcionalidad de la page Login
+1. Funcionalidad de la page Forgot password
+1. Funcionalidad de la page Find your park
+1. Funcionalidad de la page Rent your park
+1. Funcionalidad de la page Parking detail
+1. Funcionalidad de la page History
+1. Funcionalidad de la page Edit Profile
 
 No están incluidas en esta versión de la evaluación las siguientes tareas:
 
-1.	Funcionalidad de la page Your garages
-1.	Funcionalidad de la page Reviews
-1.	Funcionalidad del Backend
+1. Funcionalidad de la page Your garages
+1. Funcionalidad de la page Reviews
+1. Funcionalidad del Backend
 
 **ESCALA DE SEVERIDAD:**
 
@@ -1697,15 +1705,14 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 **TABLA RESUMEN:**
 
-| #    | Problema                                            | Escala de severidad | Heurística/Principio violada(o)                                           |
-| ----- | ------------------------------------------------ | ------- | ----------------------------------------------- |
-| 1 | Incluye un botón “Edit Profile” pero no existe contenido al que dirigirse                              | 2   | Information Architecture: Is it usable?              |
-| 2 | Incluye una sección “History” pero no existe contenido en dicha ventana                              | 2   | Information Architecture: Is it usable?              |
-
+| #   | Problema                                                                  | Escala de severidad | Heurística/Principio violada(o)         |
+| --- | ------------------------------------------------------------------------- | ------------------- | --------------------------------------- |
+| 1   | Incluye un botón “Edit Profile” pero no existe contenido al que dirigirse | 2                   | Information Architecture: Is it usable? |
+| 2   | Incluye una sección “History” pero no existe contenido en dicha ventana   | 2                   | Information Architecture: Is it usable? |
 
 **DESCRIPCIÓN DE PROBLEMAS:**
 
-PROBLEMA #1: Incluye un botón “Edit Profile” pero no existe contenido al que dirigirse 
+PROBLEMA #1: Incluye un botón “Edit Profile” pero no existe contenido al que dirigirse
 
 Severidad: 2
 
@@ -1723,11 +1730,11 @@ Lo más rápido y factible es que implementemos dicha vista, para que el usuario
 
 ---
 
-PROBLEMA #2: Incluye un botón “History” pero no existe contenido al que dirigirse  
+PROBLEMA #2: Incluye un botón “History” pero no existe contenido al que dirigirse
 
 Severidad: 2
 
-Heurística violada: 
+Heurística violada:
 
 Problema: Information Architecture: Is it usable?
 
@@ -1738,6 +1745,11 @@ Al momento de ingresar a la plataforma, no podemos ingresar al apartado de Histo
 Recomendación:
 
 Lo más recomendable es que implementemos dicha vista, para que el usuario pueda visualizar su historial de reservas, en caso desee reservar de nuevo en un estacionamiento o desee monitorear su uso de la aplicación.
+
+## 5.4 Video About-the-Product
+![Previsualización del video](./assets/about-the-product-preview.png)
+[Enlace al video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c410_upc_edu_pe/Ee8OjTjf2aFEhzQQV1wGnw0BWzPFizuvv8WsAh_Pup3Mew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bn9Zxc)
+
 
 # Conclusiones
 
