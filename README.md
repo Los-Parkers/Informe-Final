@@ -1549,7 +1549,37 @@ Asimismo, se presenta el resumen de gitflow:
 
 #### 5.2.3.1. Sprint Planning 3
 
+| Sprint #                           | Sprint 1                                                                                                                                                                |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                    | **Sprint Planning Background**                                                                                                                                          |
+| Date                               | 03 de junio del 2024                                                                                                                                                    |
+| Time                               | 07:30 PM                                                                                                                                                                |
+| Location                           | Modalidad remota                                                                                                                                                        |
+| Prepared By                        | Los Parkers                                                                                                                                                             |
+| Attendees (to planning meeting)    | Todos los miembros de los Parkers                                                                                                                                       |
+| Sprint n – 3 Retrospective Summary | En este sprint se desarrollara los servicios en el framework ASP.Net Core junto con el lenguaje de C# para el funcionamiento de la aplicacion web con una base de datos |
+|                                    | **Sprint Goal & User Stories**                                                                                                                                          |
+| Sprint 1 Velocity                  | 13                                                                                                                                                                      |
+| Sum of Story Points                | 13                                                                                                                                                                      |
+
 #### 5.2.3.2. Sprint Backlog 3
+
+| Sprint#    | 3                |
+| ---------- | ---------------- |
+| User Story | Work Item / Task |
+
+| Id    | Title                                       | Task Id | Title                                       | Description                                                           | Estimation (Hours) | Assigned To       | Status (To-do, In Process, To Review, Done) |
+| ----- | ------------------------------------------- | ------- | ------------------------------------------- | --------------------------------------------------------------------- | ------------------ | ----------------- | ------------------------------------------- |
+| US-07 | Iniciar sesión en la aplicación             | TA-41   | Crear boilerplate para servicio de usuarios | Crear estructura principal basada en DDD para el servicio de usuarios | 4                  | Marcelo Garro     | Done                                        |
+| US-07 | Iniciar sesión en la aplicación             | TA-42   | Obtener datos del usuario                   | Recuperar los datos del usuario por id a traves de un endpoint        | 3                  | Marcelo Garro     | Done                                        |
+| US-07 | Iniciar sesión en la aplicación             | TA-43   | Obtener listado de usuarios                 | Recuperar todos los datos de los usuarios por medio de un endpoint    | 3                  | Marcelo Garro     | Done                                        |
+| US-07 | Iniciar sesión en la aplicación             | TA-44   | Obtener datos de usuarios por dni           | Recuperar los datos de usuario por dni por medio de un endpoint       | 2                  | Marcelo Garro     | Done                                        |
+| US-10 | Registrar cuenta en la aplicación           | TA-45   | Crear nuevo usuario                         | Crear un nuevo usuario con los esquemas del diagrama de base de datos | 4                  | Marcelo Garro     | Done                                        |
+| US-24 | Agregar un nuevo espacio de estacionamiento | TA-46   | Crear boilerplate para servicio de Parkings | Crear boilerplate para servicio de Parkings                           | 4                  | Mauricio Oliveira | Done                                        |
+| US-24 | Agregar un nuevo espacio de estacionamiento | TA-47   | Crear servicio Post para parkings           | Crear servicio Post para parkings                                     | 3                  | Mauricio Oliveira | Done                                        |
+| US-19 | Reservar estacionamiento                    | TA-51   | Obtener datos de la reserva                 | Obtener datos de la reserva                                           | 3                  | Sebastian Méndez  | Done                                        |
+| US-19 | Reservar estacionamiento                    | TA-52   | Obtener listado de reservas                 | Obtener listado de reservas                                           | 3                  | Sebastian Méndez  | Done                                        |
+| US-19 | Reservar estacionamiento                    | TA-53   | Crear nueva reserva                         | Crear nueva reserva                                                   | 3                  | Sebastian Méndez  | Done                                        |
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 
@@ -1706,4 +1736,5 @@ Reghellin Palacios, A. F. (2018). La congestión vehicular en Lima Metropolitana
 
 - Link del video de presentación TB1: [Exposición TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f140_upc_edu_pe/ETxHLBrRT6RItlp3W3Lv4QMBqgyMcA06nelUpjeyWm6EPA?e=ARiARY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+- Link del repositorio del equipo: https://github.com/orgs/Los-Parkers/repositories
 - Link del repositorio del equipo: https://github.com/orgs/Los-Parkers/repositories
