@@ -1564,6 +1564,9 @@ Asimismo, se presenta el resumen de gitflow:
 
 #### 5.2.3.2. Sprint Backlog 3
 
+Enlace al Trello: https://trello.com/invite/b/PXrl8o9R/ATTI69e32399ab53480e5494c18933207a1b8AF656FC/sprint-3
+![Spring Backlog 1](./assets/sprint-3.png)
+
 | Sprint#    | 3                |
 | ---------- | ---------------- |
 | User Story | Work Item / Task |
@@ -1592,6 +1595,9 @@ Asimismo, se presenta el resumen de gitflow:
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+
+![Insight Commits](./assets/sprint-2-insight-1.png)
+![Insight Network](./assets/sprint-2-insight-2.png)
 
 ## 5.3. Validation Interviews
 
@@ -1658,23 +1664,23 @@ URL del video: [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u
 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-1.	Diseño de la Landing Page
-1.	Funcionalidad de la Landing Page
-1.	Diseño del Frontend
-1.	Funcionalidad de la page Sign up
-1.	Funcionalidad de la page Login
-1.	Funcionalidad de la page Forgot password
-1.	Funcionalidad de la page Find your park
-1.	Funcionalidad de la page Rent your park
-1.	Funcionalidad de la page Parking detail
-1.	Funcionalidad de la page History
-1.	Funcionalidad de la page Edit Profile
+1. Diseño de la Landing Page
+1. Funcionalidad de la Landing Page
+1. Diseño del Frontend
+1. Funcionalidad de la page Sign up
+1. Funcionalidad de la page Login
+1. Funcionalidad de la page Forgot password
+1. Funcionalidad de la page Find your park
+1. Funcionalidad de la page Rent your park
+1. Funcionalidad de la page Parking detail
+1. Funcionalidad de la page History
+1. Funcionalidad de la page Edit Profile
 
 No están incluidas en esta versión de la evaluación las siguientes tareas:
 
-1.	Funcionalidad de la page Your garages
-1.	Funcionalidad de la page Reviews
-1.	Funcionalidad del Backend
+1. Funcionalidad de la page Your garages
+1. Funcionalidad de la page Reviews
+1. Funcionalidad del Backend
 
 **ESCALA DE SEVERIDAD:**
 
@@ -1689,15 +1695,14 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 **TABLA RESUMEN:**
 
-| #    | Problema                                            | Escala de severidad | Heurística/Principio violada(o)                                           |
-| ----- | ------------------------------------------------ | ------- | ----------------------------------------------- |
-| 1 | Incluye un botón “Edit Profile” pero no existe contenido al que dirigirse                              | 2   | Information Architecture: Is it usable?              |
-| 2 | Incluye una sección “History” pero no existe contenido en dicha ventana                              | 2   | Information Architecture: Is it usable?              |
-
+| #   | Problema                                                                  | Escala de severidad | Heurística/Principio violada(o)         |
+| --- | ------------------------------------------------------------------------- | ------------------- | --------------------------------------- |
+| 1   | Incluye un botón “Edit Profile” pero no existe contenido al que dirigirse | 2                   | Information Architecture: Is it usable? |
+| 2   | Incluye una sección “History” pero no existe contenido en dicha ventana   | 2                   | Information Architecture: Is it usable? |
 
 **DESCRIPCIÓN DE PROBLEMAS:**
 
-PROBLEMA #1: Incluye un botón “Edit Profile” pero no existe contenido al que dirigirse 
+PROBLEMA #1: Incluye un botón “Edit Profile” pero no existe contenido al que dirigirse
 
 Severidad: 2
 
@@ -1715,11 +1720,11 @@ Lo más rápido y factible es que implementemos dicha vista, para que el usuario
 
 ---
 
-PROBLEMA #2: Incluye un botón “History” pero no existe contenido al que dirigirse  
+PROBLEMA #2: Incluye un botón “History” pero no existe contenido al que dirigirse
 
 Severidad: 2
 
-Heurística violada: 
+Heurística violada:
 
 Problema: Information Architecture: Is it usable?
 
