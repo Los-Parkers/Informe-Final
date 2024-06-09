@@ -1630,13 +1630,13 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 1.	Funcionalidad de la page Find your park
 1.	Funcionalidad de la page Rent your park
 1.	Funcionalidad de la page Parking detail
-
-No están incluidas en esta versión de la evaluación las siguientes tareas:
-1.	Funcionalidad de la page Your garages
 1.	Funcionalidad de la page History
 1.	Funcionalidad de la page Edit Profile
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1.	Funcionalidad de la page Your garages
 1.	Funcionalidad de la page Reviews
-1.	Funcionalidad de la page Rent your park
 1.	Funcionalidad del Backend
 
 **ESCALA DE SEVERIDAD:**
@@ -1654,27 +1654,45 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 | #    | Problema                                            | Escala de severidad | Heurística/Principio violada(o)                                           |
 | ----- | ------------------------------------------------ | ------- | ----------------------------------------------- |
-| 1 | Problema 1                              | 1   | Heurística 1              |
-| 2 | Problema 2                              | 1   | Heurística 2              |
-| 3 | Problema 3                              | 1   | Heurística 3              |
+| 1 | Incluye un botón “Edit Profile” pero no existe contenido al que dirigirse                              | 2   | Information Architecture: Is it usable?              |
+| 2 | Incluye una sección “History” pero no existe contenido en dicha ventana                              | 2   | Information Architecture: Is it usable?              |
+
 
 **DESCRIPCIÓN DE PROBLEMAS:**
 
-PROBLEMA #1:
+PROBLEMA #1: Incluye un botón “Edit Profile” pero no existe contenido al que dirigirse 
 
-Severidad: 
+Severidad: 2
 
 Heurística violada: 
 
-Problema:
+Problema: Information Architecture: Is it usable?
 
-Al momento de.
+Al momento de ingresar a la plataforma, no podemos ingresar al apartado de Edit profile, en caso el usuario quiera cambiar sus datos después del registro no podrá hacerlo, ya que dicha vista aún no está implementada.
 
-(captura de pantalla)
+![problema-heuristica-1](./assets/problema-heuristica-1.png)
 
 Recomendación:
 
-Lo más práctica es que.
+Lo más rápido y factible es que implementemos dicha vista, para que el usuario pueda modificar sus datos en caso de error al registrarse o cambie ciertos datos de su información en un futuro, como podría ser su número de celular o su foto de perfil.
+
+---
+
+PROBLEMA #2: Incluye un botón “History” pero no existe contenido al que dirigirse  
+
+Severidad: 2
+
+Heurística violada: 
+
+Problema: Information Architecture: Is it usable?
+
+Al momento de ingresar a la plataforma, no podemos ingresar al apartado de History, en caso el usuario quiera revisar el historial de sus parkings reservados no podrá hacerlo, ya que dicha vista aún no está implementada.
+
+![problema-heuristica-1](./assets/problema-heuristica-2.png)
+
+Recomendación:
+
+Lo más recomendable es que implementemos dicha vista, para que el usuario pueda visualizar su historial de reservas, en caso desee reservar de nuevo en un estacionamiento o desee monitorear su uso de la aplicación.
 
 
 # Conclusiones
