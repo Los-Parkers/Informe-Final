@@ -1586,6 +1586,14 @@ Enlace al Trello: https://trello.com/invite/b/PXrl8o9R/ATTI69e32399ab53480e5494c
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 
+| Repository  | Branch                   | Commit Id                                | Commit Message                                           | Commit Messsage Body | Commited on (Date) |
+| ----------- | ------------------------ | ---------------------------------------- | -------------------------------------------------------- | -------------------- | ------------------ |
+| ez-park-api | feat/users-service       | 0d1525ed32cb5b20a402be2793aead12e13b5ce3 | feat(TA-42): get user data by id                         |                      | 08/06/2024         |
+| ez-park-api | feat/users-service       | 45f4e05153c5a4a162f9f9618e9cff3255701608 | feat(TA-42): feat(TA-44): create GET user by dni service |                      | 08/06/2024         |
+| ez-park-api | feat/users-service       | 16e0bea4dd1f7f97f0d635e98134de41f15740eb | feat(TA-45): create POST new user service                |                      | 08/06/2024         |
+| ez-park-api | feat/parkings-service    | 16e0bea4dd1f7f97f0d635e98134de41f15740eb | feat(TA-47): create POST new parking service             |                      | 09/06/2024         |
+| ez-park-api | feat/reservation-service | 16e0bea4dd1f7f97f0d635e98134de41f15740eb | feat(TA-50): create boilerplate for reservation service  |                      | 09/06/2024         |
+
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
 En el alcance del sprint 3 se ha desarrollado el backend como primera instancia, por lo que no se evidencia testeo de servicios o interacciones.
@@ -1746,9 +1754,9 @@ Recomendación:
 Lo más recomendable es que implementemos dicha vista, para que el usuario pueda visualizar su historial de reservas, en caso desee reservar de nuevo en un estacionamiento o desee monitorear su uso de la aplicación.
 
 ## 5.4 Video About-the-Product
+
 ![Previsualización del video](./assets/about-the-product-preview.png)
 [Enlace al video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c410_upc_edu_pe/Ee8OjTjf2aFEhzQQV1wGnw0BWzPFizuvv8WsAh_Pup3Mew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bn9Zxc)
-
 
 # Conclusiones
 
