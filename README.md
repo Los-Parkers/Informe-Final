@@ -1740,6 +1740,11 @@ Recomendación:
 
 Lo más recomendable es que implementemos dicha vista, para que el usuario pueda visualizar su historial de reservas, en caso desee reservar de nuevo en un estacionamiento o desee monitorear su uso de la aplicación.
 
+## 5.4 Video About-the-Product
+![Previsualización del video](./assets/about-the-product-preview.png)
+[Enlace al video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c410_upc_edu_pe/Ee8OjTjf2aFEhzQQV1wGnw0BWzPFizuvv8WsAh_Pup3Mew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bn9Zxc)
+
+
 # Conclusiones
 
 - La aplicación EzPark tiene el potencial de abordar un problema real y común en entornos urbanos, que es la escasez de espacios de estacionamiento y la búsqueda ineficiente de lugares para estacionar. La propuesta de la aplicación para permitir a los usuarios buscar, reservar y pagar por espacios de estacionamiento de manera eficiente, así como permitir a los propietarios de espacios registrarse y alquilar a través de la plataforma, puede tener un impacto significativo en la experiencia de los conductores y en la congestión del tráfico en las áreas urbanas.
