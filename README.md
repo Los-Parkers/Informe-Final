@@ -1597,6 +1597,10 @@ En el alcance del sprint 3 aun no se aprendio sobre el despliegue del backend, p
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+Nuestro método de trabajo se basó en implementar las funcionalidades asociadas a las tareas asignadas para este período. En este sprint, nos enfocamos en implementar nuestros principales bounded context del backend (User Management, Parking Management y Reservation Management).
+
+![Sprint 4 Insights 1 Image](./assets/sprint-3-insight-1.png)
+
 ## 5.3. Validation Interviews
 
 Después de avanzar en el desarrollo de la Landing page, la aplicación front-end y la API RESTful del producto EzPark, llevamos a cabo entrevistas de validación. Estas entrevistas permitieron a nuestros usuarios de los segmentos objetivo obtener una primera impresión del software.
