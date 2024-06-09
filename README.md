@@ -1549,37 +1549,22 @@ Asimismo, se presenta el resumen de gitflow:
 
 #### 5.2.3.1. Sprint Planning 3
 
-
-
 #### 5.2.3.2. Sprint Backlog 3
-
-
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 
-
-
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
-
-
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
-
-
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
-
-
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-
-
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
-
-
 ## 5.3. Validation Interviews
+
 Después de avanzar en el desarrollo de la Landing page, la aplicación front-end y la API RESTful del producto EzPark, llevamos a cabo entrevistas de validación. Estas entrevistas permitieron a nuestros usuarios de los segmentos objetivo obtener una primera impresión del software.
 
 ### 5.3.1. Diseño de entrevistas
@@ -1588,16 +1573,37 @@ Segmento objetivo: Usuario de Parking y Anfitrión
 
 1. ¿Cuál es su nombre completo? ¿Qué edad tiene? ¿En qué distrito vive actualmente?
 1. ¿Qué opinas del diseño del Landing page? ¿Le incentiva a entrar a la aplicación y registrarse?
-1. ¿Considera que la aplicación dispone de una interfaz fácil e intuitiva de utilizar? En caso afirmativo, ¿qué funcionalidades le agradaron más? En caso negativo, ¿qué funcionalidad cree que falta o sobra para aumentar su interés en usarla? 
+1. ¿Considera que la aplicación dispone de una interfaz fácil e intuitiva de utilizar? En caso afirmativo, ¿qué funcionalidades le agradaron más? En caso negativo, ¿qué funcionalidad cree que falta o sobra para aumentar su interés en usarla?
 1. ¿Qué tipo de dispositivo (Smartphone, Tablet, Laptop, etc.) utilizó para probar la página de destino y la aplicación web?
 1. ¿Cuál fue el navegador que utilizó para visualizar el contenido en esta ocasión?
 1. ¿Hubo algún aspecto visual, como la disposición de los elementos, que no le agradó?
 
-
 ### 5.3.2. Registro de entrevistas.
 
+Segmento objetivo: Usuario de Parking y Anfitrión
+Entrevista 1: Liliana Fu Ye (00:00:00 - 03:34:46)
+
+URL del video: [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c410_upc_edu_pe/EYP_3Bbd3AZPmW3PxZ2fJz8Bqwb24NZBJ4ItsP0sQlNBlg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8iGzHG)
+<img width =100% src="./assets/entrevistas-sprint-3/Entrevista Sprint 3 - Liliana.png" alt="Entrevista de Liliana" />
+
+---
+
+Segmento objetivo: Usuario de Parking y Anfitrión
+Entrevista 2: Liam Ramos Vicente (03:34:47 - 06:39:00)
+URL del video: [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c410_upc_edu_pe/EYP_3Bbd3AZPmW3PxZ2fJz8Bqwb24NZBJ4ItsP0sQlNBlg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8iGzHG)
+
+<img width=100% src="./assets/entrevistas-sprint-3/Entrevista Sprint 3 - Liam.png" alt="Entrevista de Liam" />
+
+---
+
+Segmento objetivo: Usuario de Parking y Anfitrión
+Entrevista 3: Rodrigo Julio Tornero Loayza (06:39:00 - 09:54:83)
+URL del video: [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c410_upc_edu_pe/EYP_3Bbd3AZPmW3PxZ2fJz8Bqwb24NZBJ4ItsP0sQlNBlg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8iGzHG)
+
+<img width=100% src="./assets/entrevistas-sprint-3/Entrevista Sprint 3 - Rodrigo.png" alt="Entrevista de Rodrigo" />
 
 ### 5.3.3. Evaluaciones según heurísticas.
+
 <p align="center">UX Heuristics & Principles Evaluation
 
 <p align="center"> Usability – Inclusive Design – Information Architecture
@@ -1614,57 +1620,59 @@ Segmento objetivo: Usuario de Parking y Anfitrión
 
 **CLIENTE(S):** Nombre de las personas que participan en la sesión
 
-----
+---
+
 **SITE o APP A EVALUAR:** EzPark
 
 **TAREAS A EVALUAR:**
 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-1.	Diseño de la Landing Page
-1.	Funcionalidad de la Landing Page
-1.	Diseño del Frontend
-1.	Funcionalidad de la page Sign up
-1.	Funcionalidad de la page Login
-1.	Funcionalidad de la page Forgot password
-1.	Funcionalidad de la page Find your park
-1.	Funcionalidad de la page Rent your park
-1.	Funcionalidad de la page Parking detail
+1. Diseño de la Landing Page
+1. Funcionalidad de la Landing Page
+1. Diseño del Frontend
+1. Funcionalidad de la page Sign up
+1. Funcionalidad de la page Login
+1. Funcionalidad de la page Forgot password
+1. Funcionalidad de la page Find your park
+1. Funcionalidad de la page Rent your park
+1. Funcionalidad de la page Parking detail
 
 No están incluidas en esta versión de la evaluación las siguientes tareas:
-1.	Funcionalidad de la page Your garages
-1.	Funcionalidad de la page History
-1.	Funcionalidad de la page Edit Profile
-1.	Funcionalidad de la page Reviews
-1.	Funcionalidad de la page Rent your park
-1.	Funcionalidad del Backend
+
+1. Funcionalidad de la page Your garages
+1. Funcionalidad de la page History
+1. Funcionalidad de la page Edit Profile
+1. Funcionalidad de la page Reviews
+1. Funcionalidad de la page Rent your park
+1. Funcionalidad del Backend
 
 **ESCALA DE SEVERIDAD:**
 
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
-| Nivel                          | Descripción                                                                                                                                                                                           |
-| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                 1                   | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                                                                                                                                                                     |
-| 2                               | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.                                                                                                                                                                               |
-| 3                               | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                                                                                                                                                                           |
-| 4                           | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                                                                                                                                                                                   |
+| Nivel | Descripción                                                                                                                                                                                     |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                   |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                 |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                               |
 
 **TABLA RESUMEN:**
 
-| #    | Problema                                            | Escala de severidad | Heurística/Principio violada(o)                                           |
-| ----- | ------------------------------------------------ | ------- | ----------------------------------------------- |
-| 1 | Problema 1                              | 1   | Heurística 1              |
-| 2 | Problema 2                              | 1   | Heurística 2              |
-| 3 | Problema 3                              | 1   | Heurística 3              |
+| #   | Problema   | Escala de severidad | Heurística/Principio violada(o) |
+| --- | ---------- | ------------------- | ------------------------------- |
+| 1   | Problema 1 | 1                   | Heurística 1                    |
+| 2   | Problema 2 | 1                   | Heurística 2                    |
+| 3   | Problema 3 | 1                   | Heurística 3                    |
 
 **DESCRIPCIÓN DE PROBLEMAS:**
 
 PROBLEMA #1:
 
-Severidad: 
+Severidad:
 
-Heurística violada: 
+Heurística violada:
 
 Problema:
 
@@ -1675,7 +1683,6 @@ Al momento de.
 Recomendación:
 
 Lo más práctica es que.
-
 
 # Conclusiones
 
