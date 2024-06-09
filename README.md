@@ -1600,14 +1600,9 @@ En el alcance del sprint 3 aun no se aprendio sobre el despliegue del backend, p
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
-<<<<<<< HEAD
 Nuestro método de trabajo se basó en implementar las funcionalidades asociadas a las tareas asignadas para este período. En este sprint, nos enfocamos en implementar nuestros principales bounded context del backend (User Management, Parking Management y Reservation Management).
 
 ![Sprint 4 Insights 1 Image](./assets/sprint-3-insight-1.png)
-=======
-![Insight Commits](./assets/sprint-2-insight-1.png)
-![Insight Network](./assets/sprint-2-insight-2.png)
->>>>>>> f08083051308ab28b8f4d5ca9e967848e4ee0ebb
 
 ## 5.3. Validation Interviews
 
