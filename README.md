@@ -1612,7 +1612,7 @@ Segmento objetivo: Usuario de Parking y Anfitrión
 
 **AUDITOR:** Los Parkers
 
-**CLIENTE(S):** Nombre de las personas que participan en la sesión
+**CLIENTE(S):** Liliana Fu Ye, William Ramos Vicente y Rodrigo Julio Tornero Loayza
 
 ----
 **SITE o APP A EVALUAR:** EzPark
