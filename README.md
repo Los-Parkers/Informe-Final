@@ -1593,6 +1593,8 @@ En el alcance del sprint 3 se ha desarrollado el backend como primera instancia,
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+En el alcance del sprint 3 aun no se aprendio sobre el despliegue del backend, por lo que no se evidencia avance de ello.
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 ## 5.3. Validation Interviews
