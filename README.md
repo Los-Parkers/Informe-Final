@@ -1758,6 +1758,17 @@ Lo más recomendable es que implementemos dicha vista, para que el usuario pueda
 
 - Creemos que se han cumplido adecuadamente todos los criterios solicitados para esta primera entrega. Cabe mencionar que el trabajo colaborativo y bien planificado ha sido muy importante para completar las secciones de este informe, como recomendación, sería excelente tener fechas y horarios preestablecidos para cada reunión.
 
+## Video About-the-Team
+
+![Previsualización del video](./assets/about-the-team-preview.png)
+[Enlace al video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c410_upc_edu_pe/ERcJiTytfyJMt8qKv-BWPicBsiLtZ5jG96nCidnzc_L2aw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TxLqrP)
+Secciones:
+
+- Presentación: 00:00:00 - 00:01:53
+- Planeamiento del proyecto: 00:01:54 - 00:02:51
+- Desarrollo en equipo: 00:02:52 - 00:04:54
+- Prototipos realizados: 00:04:55 - 00:06:34
+
 # Bibliografia
 
 Carranza Casana, N. C., Céspedes Amanzo, E. B., & Salgado Bolaños, E. (2017). Propuesta de solución para el déficit de estacionamiento vehicular, caso de estudio la zona del nuevo centro empresarial del distrito de Magdalena del Mar, provincia y departamento de Lima. Recuperado de https://repositorioacademico.upc.edu.pe/handle/10757/622734
