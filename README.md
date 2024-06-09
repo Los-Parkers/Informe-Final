@@ -1585,6 +1585,8 @@ Asimismo, se presenta el resumen de gitflow:
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
+En el alcance del sprint 3 se ha desarrollado el backend como primera instancia, por lo que no se evidencia testeo de servicios o interacciones.
+
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
