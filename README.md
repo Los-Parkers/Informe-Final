@@ -1600,6 +1600,15 @@ En el alcance del sprint 3 se ha desarrollado el backend como primera instancia,
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
+**User Service:**
+![User service](./assets/user-service-sprint-3.png)
+
+**Parking Service:**
+![Parking service](./assets/parking-service-sprint-3.png)
+
+**Reservation Service:**
+![Reservation service](./assets/reservation-service-sprint-3.png)
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 En esta sección se presentan los endpoints desarrollados en el presente sprint y se adjuntan capturas de las acciones CRUD realizadas con OpenApi. En el alcance del sprint, se han desarrollado los bounded context de User Management, Parking Management y Reservation Management
