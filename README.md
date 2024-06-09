@@ -1588,11 +1588,15 @@ Enlace al Trello: https://trello.com/invite/b/PXrl8o9R/ATTI69e32399ab53480e5494c
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
+En el alcance del sprint 3 se ha desarrollado el backend como primera instancia, por lo que no se evidencia testeo de servicios o interacciones.
+
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+En el alcance del sprint 3 aun no se aprendio sobre el despliegue del backend, por lo que no se evidencia avance de ello.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
