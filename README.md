@@ -1594,6 +1594,10 @@ En el alcance del sprint 3 se ha desarrollado el backend como primera instancia,
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+En esta sección se presentan los endpoints desarrollados en el presente sprint y se adjuntan capturas de las acciones CRUD realizadas con OpenApi. En el alcance del sprint, se han desarrollado los bounded context de User Management, Parking Management y Reservation Management
+
+![Bounded Contexts Services Image](./assets/Sprint-3-services-doc.png)
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 En el alcance del sprint 3 aun no se aprendio sobre el despliegue del backend, por lo que no se evidencia avance de ello.
@@ -1742,9 +1746,9 @@ Recomendación:
 Lo más recomendable es que implementemos dicha vista, para que el usuario pueda visualizar su historial de reservas, en caso desee reservar de nuevo en un estacionamiento o desee monitorear su uso de la aplicación.
 
 ## 5.4 Video About-the-Product
-
 ![Previsualización del video](./assets/about-the-product-preview.png)
 [Enlace al video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c410_upc_edu_pe/Ee8OjTjf2aFEhzQQV1wGnw0BWzPFizuvv8WsAh_Pup3Mew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bn9Zxc)
+
 
 # Conclusiones
 
@@ -1753,17 +1757,6 @@ Lo más recomendable es que implementemos dicha vista, para que el usuario pueda
 - Después de delimitar las funcionalidades de EzPark a partir del capítulo cuatro, se ha realizado la planificación para el despliegue del landing page y web applications, partiendo de las especificaciones de estilo, hasta la realización de los wireframes y mockups. Además de completar el despliegue del landing page con HTML, CSS y JavaScript, dando uso a la plataforma de control de versiones, GitHub.
 
 - Creemos que se han cumplido adecuadamente todos los criterios solicitados para esta primera entrega. Cabe mencionar que el trabajo colaborativo y bien planificado ha sido muy importante para completar las secciones de este informe, como recomendación, sería excelente tener fechas y horarios preestablecidos para cada reunión.
-
-## Video About-the-Team
-
-![Previsualización del video](./assets/about-the-team-preview.png)
-[Enlace al video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c410_upc_edu_pe/ERcJiTytfyJMt8qKv-BWPicBsiLtZ5jG96nCidnzc_L2aw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TxLqrP)
-Secciones:
-
-- Presentación: 00:00:00 - 00:01:53
-- Planeamiento del proyecto: 00:01:54 - 00:02:51
-- Desarrollo en equipo: 00:02:52 - 00:04:54
-- Prototipos realizados: 00:04:55 - 00:06:34
 
 # Bibliografia
 
