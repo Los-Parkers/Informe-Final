@@ -1626,6 +1626,75 @@ Nuestro método de trabajo se basó en implementar las funcionalidades asociadas
 
 ![Sprint 4 Insights 1 Image](./assets/sprint-3-insight-1.png)
 
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+
+| Sprint #                           | Sprint 4                                                                                                                                                                |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                    | **Sprint Planning Background**                                                                                                                                          |
+| Date                               | 22 de junio del 2024                                                                                                                                                    |
+| Time                               | 09:00 PM                                                                                                                                                                |
+| Location                           | Modalidad remota                                                                                                                                                        |
+| Prepared By                        | Los Parkers                                                                                                                                                             |
+| Attendees (to planning meeting)    | Todos los miembros de los Parkers                                                                                                                                       |
+| Sprint n – 3 Retrospective Summary | En este sprint se finalizan los servicios previamente implementados con el framework ASP.Net Core, además del despliegue de este apartado, junto con correciones del diseño de la aplicación web. |
+|                                    | **Sprint Goal & User Stories**                                                                                                                                          |
+| Sprint 1 Velocity                  | 10                                                                                                                                                                      |
+| Sum of Story Points                | 10                                                                                                                                                                      |
+
+#### 5.2.4.2. Sprint Backlog 4
+
+Para este sprint, se decidió trabajar directamente registrando los avances en el informe.
+
+| Sprint#    | 3                |
+| ---------- | ---------------- |
+| User Story | Work Item / Task |
+
+| Id    | Title                                       | Task Id | Title                                       | Description                                                           | Estimation (Hours) | Assigned To       | Status (To-do, In Process, To Review, Done) |
+| ----- | ------------------------------------------- | ------- | ------------------------------------------- | --------------------------------------------------------------------- | ------------------ | ----------------- | ------------------------------------------- |
+| US-07 | Iniciar sesión con cuenta de la aplicación  | TA-58   | Crear comando para borrar usuario existente | Crear comando para borrar usuario existente                           | 2                  | Marcelo Garro     | Done                                        |
+| US-07 | Iniciar sesión con cuenta de la aplicación  | TA-57   | Crear endpoint para la sección "Login"      | Crear endpoint para la sección "Login"                                | 4                  | Marcelo Garro     | Done                                        |
+| US-19 | Reservar estacionamiento                    | TA-56   | Actualizar servicio de reservas             | Actualizar servicio de reservas                                       | 3                  | Sebastian Méndez  | Done                                        |
+| US-21 | Calificar estacionamientos                  | TA-54   | Crear entidad "Review"                      | Crear entidad "Review"                                                | 3                  | Mauricio Oliveira | Done                                        |
+| US-24 | Agregar un nuevo espacio de estacionamiento | TA-55   | Actualizar servicio de estacionamiento      | Actualizar servicio de estacionamiento                                | 3                  | Mauricio Oliveira | Done                                        |
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+En cuanto al último sprint (4), se continuó implementando funcionalidades en el backend, además de su despliegue y conexión con el frontend, por lo que no se evidencia testeo de servicios o interacciones.
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+**User Service:**
+![User service](./assets/user-service-sprint-3.png)
+
+**Parking Service:**
+![Parking service](./assets/parking-service-sprint-3.png)
+
+**Reservation Service:**
+![Reservation service](./assets/reservation-service-sprint-3.png)
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+En esta sección se presentan los nuevos endpoints desarrollados en el presente sprint y se adjuntan capturas de las acciones CRUD realizadas con OpenApi. En el alcance del sprint, se han desarrollado los bounded context de User Management, Parking Management, Review Management y Reservation Management
+
+![Bounded Contexts Services Image](./assets/Sprint-4-services-doc.png)
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+En el alcance del sprint 4, ya contamos con el apartado backend desplegado en conjunto con todos los servicios implementados desde el Sprint 3, se adjuntan capturas como evidencia del despliegue.
+
+![](./assets/backend-firebase-deployment.png)
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Para el presente sprint, operamos bajo un marco de levantamiento de observaciones y conclusión de servicios para este período. Además, implementamos un nuevo bounded context del backend (Review Management).
+
+![Sprint 4 Insights 1 Image](./assets/sprint-3-insight-1.png)
+
 ## 5.3. Validation Interviews
 
 Después de avanzar en el desarrollo de la Landing page, la aplicación front-end y la API RESTful del producto EzPark, llevamos a cabo entrevistas de validación. Estas entrevistas permitieron a nuestros usuarios de los segmentos objetivo obtener una primera impresión del software.
