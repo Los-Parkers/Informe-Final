@@ -1667,6 +1667,16 @@ Para este sprint, se decidió trabajar directamente registrando los avances en e
 
 #### 5.2.4.3. Development Evidence for Sprint Review
 
+| Repository     | Branch                       | Commit Id                                | Commit Message                  | Commit Message Body | Commited on (Date) |
+| -------------- | ---------------------------- | ---------------------------------------- | ------------------------------- | ------------------- | ------------------ |
+| WebApplication | refactor/parking-detail-page | 516e416542254336deafcdfc4ed666afb38fd664 | feat: show owner name and email |                     | 28/06/2024         |
+| WebApplication | refactor/parking-detail-page | 5a99c3d1d6502bbb1082be51eb6f40b8a2c40e8a | feat: add your garage page      |                     | 28/06/2024         |
+| WebApplication | refactor/parking-detail-page | 516e416542254336deafcdfc4ed666afb38fd664 | feat: show owner name and email |                     | 28/06/2024         |
+| WebApplication | main                         | 07d2137d9ef4ad684dd9ba8d44dea1a35d0bb07a | build: add pinia dependency     |                     | 27/06/2024         |
+| ez-park-api    | feat/parkings-service        | de33e93f2267d35a106ae396bfb5235df958502c | feat: add review entity         |                     | 26/06/2024         |
+| ez-park-api    | feat/parkings-service        | 010c369c69b11516e528a31ec719f61f70ef5132 | feat: update ReviewsController  |                     | 26/06/2024         |
+| ez-park-api    | feat/parkings-service        | 2d3f651c63aaf6ea913a0590c191133b4317b104 | feat: update ParkingManagement  |                     | 26/06/2024         |
+
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
 En cuanto al último sprint (4), se continuó implementando funcionalidades en el backend, además de su despliegue y conexión con el frontend, por lo que no se evidencia testeo de servicios o interacciones.
