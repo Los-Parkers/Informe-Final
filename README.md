@@ -1714,7 +1714,7 @@ En el alcance del sprint 4, ya contamos con el apartado backend desplegado en co
 
 Para el presente sprint, operamos bajo un marco de levantamiento de observaciones y conclusión de servicios para este período. Además, implementamos un nuevo bounded context del backend (Review Management).
 
-![Sprint 4 Insights 1 Image](./assets/sprint-3-insight-1.png)
+![Sprint 4 Insights 1 Image](./assets/sprint-4-insight-1.png)
 
 ## 5.3. Validation Interviews
 
