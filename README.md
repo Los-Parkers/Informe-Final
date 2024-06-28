@@ -1702,7 +1702,13 @@ En esta sección se presentan los nuevos endpoints desarrollados en el presente 
 
 En el alcance del sprint 4, ya contamos con el apartado backend desplegado en conjunto con todos los servicios implementados desde el Sprint 3, se adjuntan capturas como evidencia del despliegue.
 
-![](./assets/backend-firebase-deployment.png)
+[Enlace del deploy Servicios](https://ez-park-api20240627213353.azurewebsites.net/swagger/index.html)
+![Deploy backend service](./assets/backend-firebase-deployment.png)
+
+[Enlace del deploy Web application](https://ezpark-b41de.web.app)
+![Deploy web app](./assets/sprint-4-deploy-web-app.png)
+
+
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
